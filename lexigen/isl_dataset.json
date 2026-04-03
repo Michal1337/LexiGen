@@ -1,0 +1,3002 @@
+[
+  {
+    "train": [
+      [
+        "The soft queen will break the soft flag or The full aliens sleeps the coins",
+        "hilacub vlejydoen ka-iipiewav hilacub epiien ra owowoes ufojeru la-uyo kuroliuu"
+      ],
+      [
+        "The small artist useed the young computer or The knight breaked the noisy suns",
+        "tuh qaaben la-gafa ferurica aaren ra iakoen na-xekup heatix ehoaesau"
+      ],
+      [
+        "The manager will improve the knife but The big ghosts teachs the chairs",
+        "wayuen ka-iipiewav adaen ba atfude efzebu na-qukizn edigeu"
+      ],
+      [
+        "The boys improves the full brushes and The knight loseed the angry beds",
+        "ejikxozhu la-sopewigu owowoes rqxoforu sa iakoen la-xuqul oogeuloy gedenyau"
+      ],
+      [
+        "The women shrinks the big bed but The young artist teachs the flags",
+        "wpou la-aebagiq atfude gedanyaen ba ferurica qaaben na-qukizn ipiiu"
+      ]
+    ],
+    "test": [
+      [
+        "The full knight breaked the small brush but The aliens breaks the coin",
+        "owowoes iakoen na-xekup tuh rqxiforen ba ufojeru la-xekup kuriliuen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The light singers will think the kind water because The ancient sailors will find the toys",
+        "tokaox qowiju ka-iipiewav lezuden ko izaehix zegujaiwu ka-iipiewav epukoilqu"
+      ],
+      [
+        "The kinght will send the cold water and The cold girls will sleep the young crowns",
+        "upixedaien ka-iipiewav zeaipo lezuden sa zeaipo bekusuu ka-iipiewav ferurica obiu"
+      ],
+      [
+        "The full wizards lifted the metal toys and The brother finds the kind plate",
+        "owowoes iuidenu na-besu epukoilqu sa kkarfopen la-uusojz ozinaen"
+      ],
+      [
+        "The cold players will cut the ancient breads because The golden queens cuts the cold shields",
+        "zeaipo ueteu ka-iipiewav izaehix cijuvoqiu ko ekuno vlijydou la-haey zeaipo izuegsu"
+      ],
+      [
+        "The young farmers learned the breads or The cold boy will cut the kind flowers",
+        "ferurica evociu na-aaxo cijuvoqiu ra zeaipo ajikxozhen ka-iipiewav omizou"
+      ]
+    ],
+    "test": [
+      [
+        "The kinghts cuted the crowns or The golden queen thinked the breads",
+        "upixedeiu na-haey obiu ra ekuno vlejydoen na-esou cijuvoqiu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The bright foxes cooks the houses but The colorful driver will ride the bag",
+        "qgeeacu onuxdiu la-dueka eumebpu ba dno elawaen ka-iipiewav oiween"
+      ],
+      [
+        "The drivers creates the late stones and The late lion improveed the bright coins",
+        "elewau la-eno uruyifad eweu sa uruyifad aseen na-sopewigu qgeeacu kuroliuu"
+      ],
+      [
+        "The horse will visit the bright cup because The sailor visits the beach",
+        "egihoen ka-iipiewav qgeeacu eyoalaten ko zagujaiwen la-roxicu olouxen"
+      ],
+      [
+        "The lizard moves the huge hat or The woman cooked the late stones",
+        "oipen la-vefi falerd jivukamoen ra wpien na-dueka uruyifad eweu"
+      ],
+      [
+        "The prince will watch the bright cameras because The leaders will improve the house",
+        "onucpyen ka-iipiewav qgeeacu eaotuu ko ewijou ka-iipiewav aumebpen"
+      ]
+    ],
+    "test": [
+      [
+        "The driver rides the huge coins because The huge leader will watch the bright house",
+        "elawaen la-haq falerd kuroliuu ko falerd awijoen ka-iipiewav qgeeacu aumebpen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The bright eagles follows the noisy train because The big tiger will know the big coin",
+        "qgeeacu vnipou la-vehaqopn gejeoaen ko atfude miaen ka-iipiewav atfude kuriliuen"
+      ],
+      [
+        "The young parent will begin the quick suns and The farmers will follow the noisy city",
+        "ferurica hinen ka-iipiewav ofup ehoaesau sa evociu ka-iipiewav heatix qicarpaen"
+      ],
+      [
+        "The loud chef cleans the rings because The parent knowed the maps",
+        "bfa ikohulen la-vehecvu uvuu ko hinen na-toqofofu oiozuedu"
+      ],
+      [
+        "The loud sharks will teach the young bridges but The chef watched the gold",
+        "bfa iuruu ka-iipiewav ferurica isdexoveu ba ikohulen na-eya ixijen"
+      ],
+      [
+        "The shark will begin the cities or The young ghosts will talk the new cities",
+        "euruen ka-iipiewav qicerpau ra ferurica efzebu ka-iipiewav aya qicerpau"
+      ]
+    ],
+    "test": [
+      [
+        "The new shark talks the noisy bridges and The young farmer follows the new ring",
+        "aya euruen la-dieeue heatix isdexoveu sa ferurica avocien la-vehaqopn aya uvoen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The owl improves the silver bicycles and The pilots plays the foods",
+        "iyequen la-sopewigu yigliiiuu sa egeou la-sawesali uziu"
+      ],
+      [
+        "The kind giant buys the silver stars and The silver wolf will fight the bright bottles",
+        "oqeupeiden la-ivamo zoqi quovuju sa eqrpkeifen ka-iipiewav qgeeacu tjefiu"
+      ],
+      [
+        "The hunters will push the bright food but The fox grows the hard lamp",
+        "omekufuu ka-iipiewav qgeeacu uzeen ba onuxdeen la-gxet gac anidaukeen"
+      ],
+      [
+        "The hard wolf will play the kind soaps and The witches pushed the bicycles",
+        "gac eqrpkeifen ka-iipiewav ehau sa todefaeu na-vcewi yigliiiuu"
+      ],
+      [
+        "The fox growed the rich bottle but The reader sells the bottle",
+        "onuxdeen na-gxet exusuxe tjafien ba umhen la-eyn tjafien"
+      ]
+    ],
+    "test": [
+      [
+        "The fox pushed the hard stars and The giants fights the lamp",
+        "onuxdeen na-vcewi gac quovuju sa oqiupeidu la-amex anidaukeen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The full ninja will learn the smooth keys because The huge soldier waited the red letters",
+        "owowoes puquxen ka-iipiewav doseti nvosokdu ko falerd fajeaen na-qartzifi eiapxdh eieru"
+      ],
+      [
+        "The babies will stop the sweet doors because The smooth writer flys the angry bicycles",
+        "koidivuu ka-iipiewav eulugu vtouugjou ko doseti qsuiteen la-cis oogeuloy yigliiiuu"
+      ],
+      [
+        "The ninjas improves the smooth shield because The late managers rideed the maps",
+        "pohijiusen la-sopewigu doseti ezuegsen ko uruyifad weyuu la-xenm oiozuedu"
+      ],
+      [
+        "The enemy waits the motorcycle and The ghosts will stop the camera",
+        "gasanen la-qartzifi urewuen sa efzebu ka-iipiewav aaotuen"
+      ],
+      [
+        "The angry driver will wait the motorcycle but The enemies wakes the smooth books",
+        "oogeuloy elawaen ka-iipiewav urewuen ba gesanu la-vioeb doseti gocesihu"
+      ]
+    ],
+    "test": [
+      [
+        "The driver will learn the bicycles and The huge ghost will improve the bicycle",
+        "elawaen ka-iipiewav yigliiiuu sa falerd efzaben ka-iipiewav yigliieuen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The players will dig the quiet houses but The dangerous player wined the quiet doors",
+        "ueteu ka-iipiewav uqenuva eumebpu ba emiasce uetaen na-asg uqenuva vtouugjou"
+      ],
+      [
+        "The old polices likeed the dangerous shields and The follower chooseed the narrow boats",
+        "luda iekuduu la-zala emiasce izuegsu sa eivien la-zec ifutoj uoqofu"
+      ],
+      [
+        "The new brother pulled the new books because The villain calls the dangerous ring",
+        "aya kkarfopen na-kiosae aya gocesihu ko beequaen la-qraxu emiasce uvoen"
+      ],
+      [
+        "The thief likes the books because The narrow cat will jump the ships",
+        "wgaguhien la-cawl gocesihu ko ifutoj ohien ka-iipiewav ekuoumau"
+      ],
+      [
+        "The broken followers likes the broken ships but The thief will like the ring",
+        "ukevag iiviu la-cawl ukevag ekuoumau ba wgaguhien ka-iipiewav uvoen"
+      ]
+    ],
+    "test": [
+      [
+        "The dangerous brother wined the house and The followers called the boats",
+        "emiasce kkarfopen na-asg aumebpen sa iiviu na-qraxu uoqofu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The broken enemy flys the mirror but The empty prince will lose the kind gold",
+        "ukevag gasanen la-cis podiwuen ba aliiebe onucpyen ka-iipiewav ixijen"
+      ],
+      [
+        "The judge selled the light plate or The slow women will fly the slow lamps",
+        "ohieluwen na-eyn tokaox ozinaen ra use wpou ka-iipiewav use enidaukeu"
+      ],
+      [
+        "The sailor builds the slow beach and The slow artist destroys the golds",
+        "zagujaiwen la-iru use olouxen sa use qaaben la-ayugeces oxiju"
+      ],
+      [
+        "The enemy searched the lamp and The empty enemy will search the mirrors",
+        "gasanen na-fiho anidaukeen sa aliiebe gasanen ka-iipiewav podowuu"
+      ],
+      [
+        "The empty scientists will win the towers because The ghosts forgeted the empty plates",
+        "aliiebe ilevisau ka-iipiewav veau ko efzebu na-aeq aliiebe ozineu"
+      ]
+    ],
+    "test": [
+      [
+        "The sailors will destroy the empty gold but The empty judge will sell the slow gold",
+        "zegujaiwu ka-iipiewav aliiebe ixijen ba aliiebe ohieluwen ka-iipiewav use ixijen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The red player writeed the free lamp or The snakes writeed the free pencil",
+        "eiapxdh uetaen na-uygojiw ivima anidaukeen ra rezu la-leica ivima ecuxiluen"
+      ],
+      [
+        "The player runs the red tree or The programmers jumped the books",
+        "uetaen la-idelu itaogen ra oguginuu na-egim gocesihu"
+      ],
+      [
+        "The big pilots shrinked the big box because The doctors will jump the red bag",
+        "atfude egeou na-aebagiq atfude izazen ko keou ka-iipiewav eiapxdh oiween"
+      ],
+      [
+        "The clowns knowed the pencils but The pilots jumped the ancient diamond",
+        "usiumuyu na-toqofofu icuxiluu ba egeou na-egim izaehix exuben"
+      ],
+      [
+        "The tiny engineers will know the warm pencils and The slow programmers will wash the ancient window",
+        "erlu pifexeteu ka-iipiewav vafitiow icuxiluu sa use oguginuu ka-iipiewav izaehix owgidaen"
+      ]
+    ],
+    "test": [
+      [
+        "The clowns will know the red lamps or The engineers knows the boxes",
+        "usiumuyu ka-iipiewav eiapxdh enidaukeu ra pifexeteu la-toqofofu izezu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The swimmers sleeps the quick map and The quick writer sends the broken knife",
+        "igigihuru la-uyo ofup oeozueden sa ofup qsuiteen la-eif ukevag adaen"
+      ],
+      [
+        "The easy swimmers sends the lamps because The brave engineer will send the fast lamp",
+        "otuni igigihuru la-eif enidaukeu ko ucisu pifexateen ka-iipiewav uleabe anidaukeen"
+      ],
+      [
+        "The swimmers moveed the tower and The builder will send the red bread",
+        "igigihuru na-vefi vaaen sa ciakpen ka-iipiewav eiapxdh cijuvoqeen"
+      ],
+      [
+        "The android shrinked the lamps but The swimmers makeed the motorcycles",
+        "taowoen na-aebagiq enidaukeu ba igigihuru la-niy uriwuu"
+      ],
+      [
+        "The builders moves the farms or The programmer will break the motorcycles",
+        "ciekpu la-vefi toiu ra iguginuen ka-iipiewav uriwuu"
+      ]
+    ],
+    "test": [
+      [
+        "The brave engineer shrinks the knife because The broken swimmers moveed the red breads",
+        "ucisu pifexateen la-aebagiq adaen ko ukevag igigihuru na-vefi eiapxdh cijuvoqiu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The clever princess will turn the full house or The worker showed the bridge",
+        "vauqsk toyen ka-iipiewav owowoes aumebpen ra hzufen na-upatouh isdaxoveen"
+      ],
+      [
+        "The leader will finish the bright flag but The poor men will pull the silvers",
+        "awijoen ka-iipiewav qgeeacu epiien ba uwukad nueu ka-iipiewav zoqou"
+      ],
+      [
+        "The thick sisters starts the busy beds because The manager turns the gold",
+        "xuy cowidgu la-wifj uoci gedenyau ko wayuen la-ubetwuma ixijen"
+      ],
+      [
+        "The princesses turns the bright house because The sister finished the bag",
+        "tuyu la-ubetwuma qgeeacu aumebpen ko cowedgen na-redef oiween"
+      ],
+      [
+        "The witches fighted the clever road because The poor guest fighted the strange apple",
+        "todefaeu na-amex vauqsk naxiken ko uwukad unqien na-amex lboziqab buouen"
+      ]
+    ],
+    "test": [
+      [
+        "The clever man shows the full bag or The managers finished the flags",
+        "vauqsk nuaen la-upatouh owowoes oiween ra weyuu na-redef ipiiu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The sister improveed the wooden food but The villains will teach the shirt",
+        "cowedgen na-sopewigu iaqamo uzeen ba beequeu ka-iipiewav iucelurhen"
+      ],
+      [
+        "The bright monster will draw the wooden bed or The hero will repair the lazy motorcycles",
+        "qgeeacu yayuen ka-iipiewav iaqamo gedanyaen ra uuven ka-iipiewav sdesln uriwuu"
+      ],
+      [
+        "The colorful monster writes the soaps because The quiet monster wined the wild food",
+        "dno yayuen la-uygojiw ehau ko uqenuva yayuen na-asg mocggama uzeen"
+      ],
+      [
+        "The students will win the wild bicycle or The wizard will improve the new boats",
+        "wupu ka-iipiewav mocggama yigliieuen ra iuidanen ka-iipiewav aya uoqofu"
+      ],
+      [
+        "The strong robot draws the phone and The prince will teach the boats",
+        "fovdudip hipuen la-anomuuew udskewen sa onucpyen ka-iipiewav uoqofu"
+      ]
+    ],
+    "test": [
+      [
+        "The wooden villain writes the shirt and The hero repaired the lazy boats",
+        "iaqamo beequaen la-uygojiw iucelurhen sa uuven na-eepo sdesln uoqofu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The loud guest forgets the maps and The builder wined the box",
+        "bfa unqien la-aeq oiozuedu sa ciakpen na-asg izazen"
+      ],
+      [
+        "The monsters eated the wheel and The pilot talks the wide trains",
+        "yeyuu na-ilijv rumien sa ageoen la-dieeue qepusaxl gejeoeu"
+      ],
+      [
+        "The lazy hunter moveed the dry ring and The narrow pilots will cut the bicycle",
+        "sdesln omakufuen na-vefi uucopizo uvoen sa ifutoj egeou ka-iipiewav yigliieuen"
+      ],
+      [
+        "The lazy monsters giveed the wheels or The famous fox will talk the letter",
+        "sdesln yeyuu la-xit rumou ra liowvevo onuxdeen ka-iipiewav aieren"
+      ],
+      [
+        "The strong champion followed the shirts or The monster will know the scroll",
+        "fovdudip xiyen na-vehaqopn iucilurhu ra yayuen ka-iipiewav aiqaen"
+      ]
+    ],
+    "test": [
+      [
+        "The wide champions talks the dry ring and The hunters giveed the lazy trains",
+        "qepusaxl xoyu la-dieeue uucopizo uvoen sa omekufuu la-xit sdesln gejeoeu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The managers flyed the motorcycles because The empty strangers visited the boat",
+        "weyuu na-cis uriwuu ko aliiebe anuzu na-roxicu ooqofen"
+      ],
+      [
+        "The strangers will receive the rude toy but The short guests repaired the table",
+        "anuzu ka-iipiewav placi apukoilqen ba ebfup unqou na-eepo juzulen"
+      ],
+      [
+        "The kings repaired the bread because The rough guest lifts the smooth motorcycle",
+        "oquu na-eepo cijuvoqeen ko wasa unqien la-besu doseti urewuen"
+      ],
+      [
+        "The smooth girl throws the rough tables and The empty shark will break the rude breads",
+        "doseti bakusuen la-bisa wasa jazulu sa aliiebe euruen ka-iipiewav cijuvoqiu"
+      ],
+      [
+        "The shark will change the toys or The managers lifted the rough suns",
+        "euruen ka-iipiewav epukoilqu ra weyuu na-besu wasa ehoaesau"
+      ]
+    ],
+    "test": [
+      [
+        "The guest will lift the empty table because The shark flys the toy",
+        "unqien ka-iipiewav aliiebe juzulen ko euruen la-cis apukoilqen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The tired lion catched the foods and The robot createed the quick village",
+        "esaa aseen na-vuebiv uziu sa hipuen la-ofey ofup mocrimuhen"
+      ],
+      [
+        "The quick snake stoped the square gifts because The bright teacher catched the square foods",
+        "ofup razen na-ukuod oorigub ociu ko qgeeacu vatarvcen na-vuebiv oorigub uziu"
+      ],
+      [
+        "The dangerous strangers fixed the food because The narrow fighters will stop the narrow ball",
+        "emiasce anuzu na-adijeh uzeen ko ifutoj pupunnu ka-iipiewav ifutoj iveen"
+      ],
+      [
+        "The thin child catched the villages or The broken tigers will create the bright flower",
+        "cogaluda wapoiheen na-vuebiv mocromuhu ra ukevag mieu ka-iipiewav qgeeacu omezoen"
+      ],
+      [
+        "The girls will teach the bright phones or The wolf breaked the tall clock",
+        "bekusuu ka-iipiewav qgeeacu udskiwu ra eqrpkeifen na-xekup oezi vijoen"
+      ]
+    ],
+    "test": [
+      [
+        "The fighters will create the gift and The children will stop the bright flowers",
+        "pupunnu ka-iipiewav icien sa wepoiheu ka-iipiewav qgeeacu omizou"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The girl thinked the heavy coin because The quiet girls will fix the castle",
+        "bakusuen na-esou szocehea kuriliuen ko uqenuva bekusuu ka-iipiewav kocen"
+      ],
+      [
+        "The neighbor will find the crowns and The hot doctors will teach the maps",
+        "zunovugen ka-iipiewav obiu sa daqbxi keou ka-iipiewav oiozuedu"
+      ],
+      [
+        "The bitter prince plants the kind river and The brother will plant the castle",
+        "ofisu onucpyen la-onevuw ukusen sa kkarfopen ka-iipiewav kocen"
+      ],
+      [
+        "The slow dancers designs the bright maps because The doctor designed the hot beaches",
+        "use okiiu la-ialejge qgeeacu oiozuedu ko kaoen na-ialejge daqbxi ulouxu"
+      ],
+      [
+        "The bright soldiers thinks the quiet maps and The woman walks the radios",
+        "qgeeacu fejeau la-esou uqenuva oiozuedu sa wpien la-gibuice rouu"
+      ]
+    ],
+    "test": [
+      [
+        "The brothers finded the bitter river and The dancer will think the radio",
+        "kkerfopu na-uusojz ofisu ukusen sa okeien ka-iipiewav riuen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The plastic clowns started the plastic forests because The witch swims the soft clock",
+        "usiumuyu na-wifj cceqqifu ko todafaeen la-uzo hilacub vijoen"
+      ],
+      [
+        "The plastic drivers will eat the plastic motorcycles because The light witches will use the dry paper",
+        "elewau ka-iipiewav bipadjap uriwuu ko tokaox todefaeu ka-iipiewav uucopizo keracen"
+      ],
+      [
+        "The driver decides the clocks and The fox seeed the fast knife",
+        "elawaen la-ewuu vojou sa onuxdeen la-aeju uleabe adaen"
+      ],
+      [
+        "The programmers starts the chair and The driver meeted the big stick",
+        "oguginuu la-wifj adigeen sa elawaen na-sehuv atfude uziupen"
+      ],
+      [
+        "The ninjas will move the bright door and The horses started the plastic clock",
+        "pohijiusen ka-iipiewav qgeeacu vtiuugjoen sa igihou na-wifj vijoen"
+      ]
+    ],
+    "test": [
+      [
+        "The horses decides the soft motorcycles and The ninjas moveed the chair",
+        "igihou la-ewuu hilacub uriwuu sa pohijiusen na-vefi adigeen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The golden girls receiveed the toy because The ninja started the towers",
+        "ekuno bekusuu la-iflm apukoilqen ko puquxen na-wifj veau"
+      ],
+      [
+        "The chefs stands the flower because The girl will drive the rich mirrors",
+        "okohulu la-evelpaha omezoen ko bakusuen ka-iipiewav exusuxe podowuu"
+      ],
+      [
+        "The knight will start the round camera and The ninjas will receive the rich clock",
+        "iakoen ka-iipiewav algiq aaotuen sa pohijiusen ka-iipiewav exusuxe vijoen"
+      ],
+      [
+        "The snakes catchs the papers but The angry girls understands the rich soaps",
+        "rezu la-xexi kerecu ba oogeuloy bekusuu la-itebu exusuxe ehau"
+      ],
+      [
+        "The neighbor starts the rich beaches but The angry man planted the rude camera",
+        "zunovugen la-wifj exusuxe ulouxu ba oogeuloy nuaen na-onevuw placi aaotuen"
+      ]
+    ],
+    "test": [
+      [
+        "The snake plants the papers because The round snakes will plant the rude soaps",
+        "razen la-onevuw kerecu ko algiq rezu ka-iipiewav placi ehau"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The swimmer chooseed the thick cup and The kinghts watched the hammers",
+        "igegihuren la-zec xuy eyoalaten sa upixedeiu na-eya toku"
+      ],
+      [
+        "The pilots starts the bridges or The boy will visit the thick gift",
+        "egeou la-wifj isdexoveu ra ajikxozhen ka-iipiewav xuy icien"
+      ],
+      [
+        "The ugly knight decides the cold ships or The thick farmers builded the engine",
+        "nbej iakoen la-ewuu zeaipo ekuoumau ra xuy evociu na-iru tumen"
+      ],
+      [
+        "The thick chef drawed the tickets but The swimmer will decide the thick hammers",
+        "xuy ikohulen na-anomuuew ibieu ba igegihuren ka-iipiewav xuy toku"
+      ],
+      [
+        "The driver will draw the square rivers or The easy pilot will swim the ugly rivers",
+        "elawaen ka-iipiewav oorigub akusu ra otuni ageoen ka-iipiewav nbej akusu"
+      ]
+    ],
+    "test": [
+      [
+        "The easy chefs swims the cold ship but The pilot will start the gift",
+        "otuni okohulu la-uzo zeaipo akuoumaen ba ageoen ka-iipiewav icien"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The kinghts will follow the books but The long chef searchs the clean papers",
+        "upixedeiu ka-iipiewav gocesihu ba dozze ikohulen la-fiho vehecvu kerecu"
+      ],
+      [
+        "The engineer will grow the long clock or The princesses follows the paper",
+        "pifexateen ka-iipiewav dozze vijoen ra tuyu la-vehaqopn keracen"
+      ],
+      [
+        "The active swimmer will follow the kind phone and The clean girl pushs the rich castles",
+        "iyexl igegihuren ka-iipiewav udskewen sa vehecvu bakusuen na-vcewi exusuxe kucu"
+      ],
+      [
+        "The kind stranger will search the engines because The driver knows the bitter castles",
+        "unuzen ka-iipiewav tamu ko elawaen la-toqofofu ofisu kucu"
+      ],
+      [
+        "The long swimmer digs the shirts but The bitter dogs buys the bitter island",
+        "dozze igegihuren la-punihu iucilurhu ba ofisu cocuwiu la-ivamo ofisu lidreuen"
+      ]
+    ],
+    "test": [
+      [
+        "The active stranger will grow the clean engines or The rich princess will dig the clean engine",
+        "iyexl unuzen ka-iipiewav vehecvu tamu ra exusuxe toyen ka-iipiewav vehecvu tumen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The cool follower travels the wild planet and The singers wins the tables",
+        "oxhe eivien la-pamek mocggama serien sa qowiju la-ofup jazulu"
+      ],
+      [
+        "The cool polices will begin the farm or The cool follower wined the bottle",
+        "oxhe iekuduu ka-iipiewav toeen ra oxhe eivien na-asg tjafien"
+      ],
+      [
+        "The police thinks the cool cities because The warm monster will begin the strange treasures",
+        "eekuduen la-esou oxhe qicerpau ko vafitiow yayuen ka-iipiewav lboziqab ietcu"
+      ],
+      [
+        "The farmers will travel the toys or The farmer will close the golds",
+        "evociu ka-iipiewav epukoilqu ra avocien ka-iipiewav oxiju"
+      ],
+      [
+        "The farmer turned the shield because The narrow tiger thinked the cool shields",
+        "avocien na-ubetwuma ezuegsen ko ifutoj miaen na-esou oxhe izuegsu"
+      ]
+    ],
+    "test": [
+      [
+        "The strange tigers will turn the treasures because The tiger closes the golds",
+        "lboziqab mieu ka-iipiewav ietcu ko miaen la-uwfub oxiju"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The baby will grow the happy book or The drivers searchs the farms",
+        "koidevuen ka-iipiewav worv gocasihen ra elewau la-bieti toiu"
+      ],
+      [
+        "The happy baby will break the happy books but The rude android will plant the coins",
+        "worv koidevuen ka-iipiewav worv gocesihu ba taowoen ka-iipiewav kuroliuu"
+      ],
+      [
+        "The ghost will travel the golds but The drivers will break the bright waters",
+        "efzaben ka-iipiewav oxiju ba elewau ka-iipiewav qgeeacu lizudu"
+      ],
+      [
+        "The hard shark traveled the bitter silver and The writers searchs the door",
+        "gac euruen na-pamek ofisu zoqien sa qsuitiu la-bieti vtiuugjoen"
+      ],
+      [
+        "The smart singers traveled the smooth waters because The flat princess will search the bright golds",
+        "ooz qowiju na-pamek doseti lizudu ko nqup toyen ka-iipiewav qgeeacu oxiju"
+      ]
+    ],
+    "test": [
+      [
+        "The bright ghosts plants the bitter waters and The drivers breaks the doors",
+        "qgeeacu efzebu la-onevuw ofisu lizudu sa elewau la-xekup vtouugjou"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The long children finishs the cakes but The writers carrys the toys",
+        "dozze wepoiheu la-redef jtioubu ba qsuitiu la-plewr epukoilqu"
+      ],
+      [
+        "The child builds the tiny ship or The bright champion will talk the long pictures",
+        "wapoiheen la-iru erlu akuoumaen ra qgeeacu xiyen ka-iipiewav dozze citeyoju"
+      ],
+      [
+        "The short singer flys the sofa but The reader will build the soaps",
+        "ebfup qowejen la-cis iwewoen ba umhen ka-iipiewav ehau"
+      ],
+      [
+        "The early dragons will talk the shirt but The wild writers carrys the knives",
+        "aiy exouodau ka-iipiewav iucelurhen ba mocggama qsuitiu la-plewr edau"
+      ],
+      [
+        "The tall drivers pushs the soap or The tall programmer finishs the soaps",
+        "oezi elewau na-vcewi ahaen ra oezi iguginuen la-redef ehau"
+      ]
+    ],
+    "test": [
+      [
+        "The dragons pushed the ships or The writer carryed the cake",
+        "exouodau na-vcewi ekuoumau ra qsuiteen na-plewr jteouben"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The girls cleans the garden but The weak birds paints the castles",
+        "bekusuu la-vehecvu bzojoien ba eraqeok cvuou la-uqe kucu"
+      ],
+      [
+        "The thick lizard will search the plate and The new witches will catch the coin",
+        "xuy oipen ka-iipiewav ozinaen sa aya todefaeu ka-iipiewav kuriliuen"
+      ],
+      [
+        "The girl cleans the active camera and The bears will clean the bicycles",
+        "bakusuen la-vehecvu iyexl aaotuen sa zioku ka-iipiewav yigliiiuu"
+      ],
+      [
+        "The lions meets the ring because The ghost will meet the slow bicycle",
+        "eseu la-sehuv uvoen ko efzaben ka-iipiewav use yigliieuen"
+      ],
+      [
+        "The huge birds will clean the flowers but The players throwed the thick flowers",
+        "falerd cvuou ka-iipiewav omizou ba ueteu na-bisa xuy omizou"
+      ]
+    ],
+    "test": [
+      [
+        "The lizard painted the thick cameras because The ghost catched the huge bicycles",
+        "oipen na-uqe xuy eaotuu ko efzaben na-vuebiv falerd yigliiiuu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The scientists moves the square mountain because The strangers loses the shield",
+        "ilevisau la-vefi oorigub ewien ko anuzu la-enenma ezuegsen"
+      ],
+      [
+        "The rude lion cuts the free shield or The big pirates chooseed the mountain",
+        "placi aseen la-haey ivima ezuegsen ra atfude tijyoxiju la-zec ewien"
+      ],
+      [
+        "The snakes will choose the square soap because The cats loses the rude engine",
+        "rezu ka-iipiewav oorigub ahaen ko ohou la-enenma placi tumen"
+      ],
+      [
+        "The dirty strangers will finish the dirty silver and The bears cuts the coin",
+        "iqgirid anuzu ka-iipiewav iqgirid zoqien sa zioku la-haey kuriliuen"
+      ],
+      [
+        "The new birds will sit the shield because The square witch moveed the wild garden",
+        "aya cvuou ka-iipiewav ezuegsen ko oorigub todafaeen na-vefi mocggama bzojoien"
+      ]
+    ],
+    "test": [
+      [
+        "The pirates will finish the dirty soap and The big strangers finishs the engines",
+        "tijyoxiju ka-iipiewav iqgirid ahaen sa atfude anuzu la-redef tamu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The famous bird designs the colorful beaches or The neighbors runs the planet",
+        "liowvevo cvuien la-ialejge dno ulouxu ra zunuvugu la-idelu serien"
+      ],
+      [
+        "The queens pulled the dangerous rings and The new birds traveled the ropes",
+        "vlijydou na-kiosae emiasce uvuu sa aya cvuou na-pamek zuiu"
+      ],
+      [
+        "The swimmer runs the cold ring because The quick chef stoped the planets",
+        "igegihuren la-idelu zeaipo uvoen ko ofup ikohulen na-ukuod siriu"
+      ],
+      [
+        "The narrow lizards designs the colorful moon and The lizards carrys the map",
+        "ifutoj oopu la-ialejge dno egigiilaen sa oopu la-plewr oeozueden"
+      ],
+      [
+        "The queens will stop the famous planet and The colorful farmers will open the cold map",
+        "vlijydou ka-iipiewav liowvevo serien sa dno evociu ka-iipiewav zeaipo oeozueden"
+      ]
+    ],
+    "test": [
+      [
+        "The farmers will carry the maps and The birds designed the colorful planet",
+        "evociu ka-iipiewav oiozuedu sa cvuou na-ialejge dno serien"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The farmer draws the metal silver because The busy babies useed the star",
+        "avocien la-anomuuew zoqien ko uoci koidivuu la-gafa qoovujen"
+      ],
+      [
+        "The builder will change the bright maps but The wolves planted the city",
+        "ciakpen ka-iipiewav qgeeacu oiozuedu ba iqrpkeifu na-onevuw qicarpaen"
+      ],
+      [
+        "The strange cat moveed the island or The strange farmers moveed the cool rings",
+        "lboziqab ohien na-vefi lidreuen ra lboziqab evociu na-vefi oxhe uvuu"
+      ],
+      [
+        "The workers useed the poor gardens but The wolves stops the star",
+        "hzafu la-gafa uwukad bzojoou ba iqrpkeifu la-ukuod qoovujen"
+      ],
+      [
+        "The cool stranger stoped the silvers because The cats will visit the garden",
+        "oxhe unuzen na-ukuod zoqou ko ohou ka-iipiewav bzojoien"
+      ]
+    ],
+    "test": [
+      [
+        "The wolves plants the busy star or The strange strangers plants the rings",
+        "iqrpkeifu la-onevuw uoci qoovujen ra lboziqab anuzu la-onevuw uvuu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The dirty soldiers climbs the hammers or The driver rides the kind farms",
+        "iqgirid fejeau la-dpep toku ra elawaen la-haq toiu"
+      ],
+      [
+        "The round sailors will wait the wooden flowers or The soft followers climbs the hammer",
+        "algiq zegujaiwu ka-iipiewav iaqamo omizou ra hilacub iiviu la-dpep tiken"
+      ],
+      [
+        "The polite singer traveled the treasures because The witches standed the heavy roads",
+        "beruhu qowejen na-pamek ietcu ko todefaeu na-evelpaha szocehea nexiku"
+      ],
+      [
+        "The soft farmer waited the polite bed and The friends will lose the beds",
+        "hilacub avocien na-qartzifi beruhu gedanyaen sa khokeyheu ka-iipiewav gedenyau"
+      ],
+      [
+        "The young dancer will see the flowers and The soldier loses the treasures",
+        "ferurica okeien ka-iipiewav omizou sa fajeaen la-enenma ietcu"
+      ]
+    ],
+    "test": [
+      [
+        "The follower will see the hammers and The singers will ride the beds",
+        "eivien ka-iipiewav toku sa qowiju ka-iipiewav gedenyau"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The ghost planed the golds and The dark ghosts will meet the huge bags",
+        "efzaben na-sec oxiju sa diie efzebu ka-iipiewav falerd oiwiu"
+      ],
+      [
+        "The driver will meet the huge gold but The king will watch the shirt",
+        "elawaen ka-iipiewav falerd ixijen ba iquen ka-iipiewav iucelurhen"
+      ],
+      [
+        "The square swimmer will open the silent waters and The tall runners hideed the old plate",
+        "oorigub igegihuren ka-iipiewav xegiou lizudu sa oezi uigosiivu na-zoyan luda ozinaen"
+      ],
+      [
+        "The assistant watched the bridges or The dark villains cuted the serious shield",
+        "guidaesen na-eya isdexoveu ra diie beequeu na-haey wokxe ezuegsen"
+      ],
+      [
+        "The dark brothers turns the huge gold but The serious brothers opens the mountains",
+        "diie kkerfopu la-ubetwuma falerd ixijen ba wokxe kkerfopu la-hixis iwiu"
+      ]
+    ],
+    "test": [
+      [
+        "The serious brothers will meet the plates but The square king meeted the silent shirts",
+        "wokxe kkerfopu ka-iipiewav ozineu ba oorigub iquen na-sehuv xegiou iucilurhu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The thick pirate will visit the thick towel and The kind teacher follows the thick mountains",
+        "xuy tejyoxijen ka-iipiewav xuy nubaxen sa vatarvcen la-vehaqopn xuy iwiu"
+      ],
+      [
+        "The bitter eagles will destroy the treasures because The soldiers will remember the dirty rivers",
+        "ofisu vnipou ka-iipiewav ietcu ko fejeau ka-iipiewav iqgirid akusu"
+      ],
+      [
+        "The brothers swims the short cup but The wet cats remembers the narrow towel",
+        "kkerfopu la-uzo ebfup eyoalaten ba iezro ohou la-kreoeu ifutoj nubaxen"
+      ],
+      [
+        "The narrow giant forgeted the stones and The narrow giant will destroy the car",
+        "ifutoj oqeupeiden na-aeq eweu sa ifutoj oqeupeiden ka-iipiewav oikoen"
+      ],
+      [
+        "The wet student destroys the big island but The kind dancers understanded the dirty mountain",
+        "iezro wopen la-ayugeces atfude lidreuen ba okiiu na-itebu iqgirid ewien"
+      ]
+    ],
+    "test": [
+      [
+        "The teachers swims the kind mountain and The dirty pirates will forget the short towel",
+        "vetarvcu la-uzo ewien sa iqgirid tijyoxiju ka-iipiewav ebfup nubaxen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The dry fighter destroys the stone or The noisy guards drives the bright foods",
+        "uucopizo popunnen la-ayugeces ewaen ra heatix sozeyeldu la-upu qgeeacu uziu"
+      ],
+      [
+        "The doctors likeed the quiet forests but The stranger drawed the noisy food",
+        "keou la-zala uqenuva cceqqifu ba unuzen na-anomuuew heatix uzeen"
+      ],
+      [
+        "The fighter destroys the dry foods and The bright guard will climb the quiet boats",
+        "popunnen la-ayugeces uucopizo uziu sa qgeeacu sozayelden ka-iipiewav uqenuva uoqofu"
+      ],
+      [
+        "The sweet captain driveed the dry shield but The follower destroys the cameras",
+        "eulugu voanuhceen na-upu uucopizo ezuegsen ba eivien la-ayugeces eaotuu"
+      ],
+      [
+        "The kind followers will turn the forests but The leaders destroyed the kind desks",
+        "iiviu ka-iipiewav cceqqifu ba ewijou na-ayugeces getosau"
+      ]
+    ],
+    "test": [
+      [
+        "The quiet leader drives the shields or The fighters draws the boats",
+        "uqenuva awijoen la-upu izuegsu ra pupunnu la-anomuuew uoqofu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The snake fixs the ancient water because The wild snake will find the picture",
+        "razen la-tiboisq izaehix lezuden ko mocggama razen ka-iipiewav citayojen"
+      ],
+      [
+        "The soldiers will fix the smart water and The bitter builder will bring the lamp",
+        "fejeau ka-iipiewav ooz lezuden sa ofisu ciakpen ka-iipiewav anidaukeen"
+      ],
+      [
+        "The smart players throws the lamp or The singers chooses the train",
+        "ooz ueteu la-bisa anidaukeen ra qowiju la-olvcn gejeoaen"
+      ],
+      [
+        "The tiger writes the weak road because The ancient neighbor cooks the bitter swords",
+        "miaen la-uygojiw eraqeok naxiken ko izaehix zunovugen la-dueka ofisu neevu"
+      ],
+      [
+        "The owl throwed the waters because The hunters plants the rude lamp",
+        "iyequen na-bisa lizudu ko omekufuu la-onevuw placi anidaukeen"
+      ]
+    ],
+    "test": [
+      [
+        "The builder cooked the wild water because The rude hunters finded the trains",
+        "ciakpen na-dueka mocggama lezuden ko placi omekufuu na-uusojz gejeoeu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The clean boy followed the poor cities but The heavy androids cuts the dark coins",
+        "vehecvu ajikxozhen na-vehaqopn uwukad qicerpau ba szocehea teowou la-haey diie kuroliuu"
+      ],
+      [
+        "The square owner breaked the dark islands or The full tigers will break the angry moon",
+        "oorigub meldeen na-xekup diie lidriuu ra owowoes mieu ka-iipiewav oogeuloy egigiilaen"
+      ],
+      [
+        "The clean cats will fly the door and The runners pulls the crown",
+        "vehecvu ohou ka-iipiewav vtiuugjoen sa uigosiivu la-kiosae obeen"
+      ],
+      [
+        "The quick princes watched the door and The quick prince pulled the trains",
+        "ofup unucpyu na-eya vtiuugjoen sa ofup onucpyen na-kiosae gejeoeu"
+      ],
+      [
+        "The free boy watched the full moon because The sister will find the angry trains",
+        "ivima ajikxozhen na-eya owowoes egigiilaen ko cowedgen ka-iipiewav oogeuloy gejeoeu"
+      ]
+    ],
+    "test": [
+      [
+        "The quick owners cleans the clean crown and The tiger will cut the train",
+        "ofup mildeu la-vehecvu vehecvu obeen sa miaen ka-iipiewav gejeoaen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The thick horses will turn the book and The horse gives the garden",
+        "xuy igihou ka-iipiewav gocasihen sa egihoen la-wnetu bzojoien"
+      ],
+      [
+        "The readers gives the bridges or The thick girls readed the thick keys",
+        "amhu la-wnetu isdexoveu ra xuy bekusuu na-rou xuy nvosokdu"
+      ],
+      [
+        "The polite knight reads the strong key and The thick knight shrinked the happy gardens",
+        "beruhu iakoen la-rou fovdudip nvosikden sa xuy iakoen na-aebagiq worv bzojoou"
+      ],
+      [
+        "The swimmer traveled the happy phone and The soft swimmers meets the islands",
+        "igegihuren na-pamek worv udskewen sa hilacub igigihuru la-sehuv lidriuu"
+      ],
+      [
+        "The polite writer pulled the soft ships because The snakes will show the bridges",
+        "beruhu qsuiteen na-kiosae hilacub ekuoumau ko rezu ka-iipiewav isdexoveu"
+      ]
+    ],
+    "test": [
+      [
+        "The soft horses will turn the phone or The snakes will meet the polite ships",
+        "hilacub igihou ka-iipiewav udskewen ra rezu ka-iipiewav beruhu ekuoumau"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The full clowns fixed the ancient sun or The funny babies will swim the ring",
+        "owowoes usiumuyu na-adijeh izaehix ahoaesaen ra eguim koidivuu ka-iipiewav uvoen"
+      ],
+      [
+        "The drivers builds the dirty road but The safe babies grows the late suns",
+        "elewau la-iru iqgirid naxiken ba adifd koidivuu la-gxet uruyifad ehoaesau"
+      ],
+      [
+        "The baby grows the road and The wooden judge will clean the dirty coin",
+        "koidevuen la-gxet naxiken sa iaqamo ohieluwen ka-iipiewav iqgirid kuriliuen"
+      ],
+      [
+        "The pilot will drop the bright desks but The ancient drivers will grow the roads",
+        "ageoen ka-iipiewav qgeeacu getosau ba izaehix elewau ka-iipiewav nexiku"
+      ],
+      [
+        "The late neighbor turns the coin and The driver brings the rope",
+        "uruyifad zunovugen la-ubetwuma kuriliuen sa elawaen la-juva zueen"
+      ]
+    ],
+    "test": [
+      [
+        "The ancient pilot will drop the suns but The safe babies swims the late rope",
+        "izaehix ageoen ka-iipiewav ehoaesau ba adifd koidivuu la-uzo uruyifad zueen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The late boys sended the noisy toy because The weak owls grows the poor breads",
+        "uruyifad ejikxozhu na-eif heatix apukoilqen ko eraqeok iyiquu la-gxet uwukad cijuvoqiu"
+      ],
+      [
+        "The owl will follow the bread and The weak driver visited the smart phones",
+        "iyequen ka-iipiewav cijuvoqeen sa eraqeok elawaen na-roxicu ooz udskiwu"
+      ],
+      [
+        "The soft driver exploreed the phones but The runner will eat the farm",
+        "hilacub elawaen la-iabua udskiwu ba uigosieven ka-iipiewav toeen"
+      ],
+      [
+        "The weak brother will buy the round tree because The builders follows the keys",
+        "eraqeok kkarfopen ka-iipiewav algiq itaogen ko ciekpu la-vehaqopn nvosokdu"
+      ],
+      [
+        "The snake sended the hats but The angry robots drives the weak roads",
+        "razen na-eif jivukemou ba oogeuloy hopuu la-upu eraqeok nexiku"
+      ]
+    ],
+    "test": [
+      [
+        "The poor builders grows the keys but The late brother will follow the noisy keys",
+        "uwukad ciekpu la-gxet nvosokdu ba uruyifad kkarfopen ka-iipiewav heatix nvosokdu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The bird builded the sofa or The cool polices meeted the active ship",
+        "cvuien na-iru iwewoen ra oxhe iekuduu na-sehuv iyexl akuoumaen"
+      ],
+      [
+        "The captain giveed the book or The soft bird visits the active houses",
+        "voanuhceen la-xit gocasihen ra hilacub cvuien la-roxicu iyexl eumebpu"
+      ],
+      [
+        "The silver polices thinks the narrow towers and The thiefs visited the ring",
+        "iekuduu la-esou ifutoj veau sa wgeguhiu na-roxicu uvoen"
+      ],
+      [
+        "The angry polices gives the forests but The farmers meeted the house",
+        "oogeuloy iekuduu la-wnetu cceqqifu ba evociu na-sehuv aumebpen"
+      ],
+      [
+        "The rude engineer eated the safe houses but The strong riders will meet the towers",
+        "placi pifexateen na-ilijv adifd eumebpu ba fovdudip ooporuzu ka-iipiewav veau"
+      ]
+    ],
+    "test": [
+      [
+        "The rude engineer visits the silver forest and The birds eats the book",
+        "placi pifexateen la-roxicu ccaqqifen sa cvuou la-ilijv gocasihen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The babies chooses the slow village but The babies will jump the silent engine",
+        "koidivuu la-olvcn use mocrimuhen ba koidivuu ka-iipiewav xegiou tumen"
+      ],
+      [
+        "The android flys the hard island because The smart riders will fly the round treasures",
+        "taowoen la-cis gac lidreuen ko ooz ooporuzu ka-iipiewav algiq ietcu"
+      ],
+      [
+        "The brothers thinked the ships or The silent strangers will drop the serious clock",
+        "kkerfopu na-esou ekuoumau ra xegiou anuzu ka-iipiewav wokxe vijoen"
+      ],
+      [
+        "The lizard sited the clocks and The hard scientists chooseed the hard diamonds",
+        "oipen na-xoxahu vojou sa gac ilevisau la-zec gac ixubu"
+      ],
+      [
+        "The wild hunters flys the islands or The brothers will build the bitter cameras",
+        "mocggama omekufuu la-cis lidriuu ra kkerfopu ka-iipiewav ofisu eaotuu"
+      ]
+    ],
+    "test": [
+      [
+        "The slow lizard will fly the smart diamond but The bitter android builded the smart island",
+        "use oipen ka-iipiewav ooz exuben ba ofisu taowoen na-iru ooz lidreuen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The quiet androids will travel the hard stone because The quiet princes changeed the early shirts",
+        "uqenuva teowou ka-iipiewav gac ewaen ko uqenuva unucpyu la-obicy aiy iucilurhu"
+      ],
+      [
+        "The androids travels the gift but The old bird will throw the ticket",
+        "teowou la-pamek icien ba luda cvuien ka-iipiewav ibiaen"
+      ],
+      [
+        "The king meets the gifts because The writer diged the bag",
+        "iquen la-sehuv ociu ko qsuiteen na-punihu oiween"
+      ],
+      [
+        "The serious androids throwed the map because The long androids will meet the shirt",
+        "wokxe teowou na-bisa oeozueden ko dozze teowou ka-iipiewav iucelurhen"
+      ],
+      [
+        "The hard giants travels the long shirt and The cool kinght travels the stone",
+        "gac oqiupeidu la-pamek dozze iucelurhen sa oxhe upixedaien la-pamek ewaen"
+      ]
+    ],
+    "test": [
+      [
+        "The long prince changeed the stone because The serious birds throwed the map",
+        "dozze onucpyen la-obicy ewaen ko wokxe cvuou na-bisa oeozueden"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The assistants showed the shoes because The busy children showed the flower",
+        "guideesu na-upatouh oolpou ko uoci wepoiheu na-upatouh omezoen"
+      ],
+      [
+        "The clean witch climbed the sweet windows and The workers will finish the toy",
+        "vehecvu todafaeen na-dpep eulugu owgideu sa hzafu ka-iipiewav apukoilqen"
+      ],
+      [
+        "The wild assistant thinked the pictures and The wild worker will read the mountains",
+        "mocggama guidaesen na-esou citeyoju sa mocggama hzufen ka-iipiewav iwiu"
+      ],
+      [
+        "The safe witch finished the rope because The chefs will explore the dark wheels",
+        "adifd todafaeen na-redef zueen ko okohulu ka-iipiewav diie rumou"
+      ],
+      [
+        "The wild ninjas cooked the cars and The wet scientist will finish the ropes",
+        "mocggama pohijiusen na-dueka ookou sa iezro ilavisaen ka-iipiewav zuiu"
+      ]
+    ],
+    "test": [
+      [
+        "The chef will climb the wheel and The dark chefs showed the shoes",
+        "ikohulen ka-iipiewav rumien sa diie okohulu na-upatouh oolpou"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The thick fighters thinked the computer but The wide bosses begins the safe shoes",
+        "xuy pupunnu na-esou aaren ba qepusaxl eufepu la-ixooec adifd oolpou"
+      ],
+      [
+        "The cat fighted the bicycles or The silver giants showed the coins",
+        "ohien na-amex yigliiiuu ra oqiupeidu na-upatouh kuroliuu"
+      ],
+      [
+        "The empty fighters throws the books because The wide fighters begined the brave bicycle",
+        "aliiebe pupunnu la-bisa gocesihu ko qepusaxl pupunnu na-ixooec ucisu yigliieuen"
+      ],
+      [
+        "The empty giants throwed the square food because The wizards traveled the safe beaches",
+        "aliiebe oqiupeidu na-bisa oorigub uzeen ko iuidenu na-pamek adifd ulouxu"
+      ],
+      [
+        "The reader will pull the coins because The champions begins the brave suns",
+        "umhen ka-iipiewav kuroliuu ko xoyu la-ixooec ucisu ehoaesau"
+      ]
+    ],
+    "test": [
+      [
+        "The empty bosses pulled the books or The giants pulls the silver books",
+        "aliiebe eufepu na-kiosae gocesihu ra oqiupeidu la-kiosae gocesihu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The light captains will swim the moon but The players will win the poor crown",
+        "tokaox voenuhceu ka-iipiewav egigiilaen ba ueteu ka-iipiewav uwukad obeen"
+      ],
+      [
+        "The smart scientist cuts the pencil or The ninjas will win the slow crowns",
+        "ooz ilavisaen la-haey ecuxiluen ra pohijiusen ka-iipiewav use obiu"
+      ],
+      [
+        "The doctors will run the houses because The smart worker will win the cake",
+        "keou ka-iipiewav eumebpu ko ooz hzufen ka-iipiewav jteouben"
+      ],
+      [
+        "The brave scientist will wash the houses but The guests runed the shoe",
+        "ucisu ilavisaen ka-iipiewav eumebpu ba unqou na-idelu oolpien"
+      ],
+      [
+        "The teacher helps the bridge or The smart workers sited the quick crowns",
+        "vatarvcen la-oyasa isdaxoveen ra ooz hzafu na-xoxahu ofup obiu"
+      ]
+    ],
+    "test": [
+      [
+        "The doctor runed the poor pencils or The player runed the pencils",
+        "kaoen na-idelu uwukad icuxiluu ra uetaen na-idelu icuxiluu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The sweet hunters seeed the papers but The hunters planed the shield",
+        "eulugu omekufuu la-aeju kerecu ba omekufuu na-sec ezuegsen"
+      ],
+      [
+        "The fighter stands the stick but The students teached the broken sticks",
+        "popunnen la-evelpaha uziupen ba wupu na-qukizn ukevag uzoupu"
+      ],
+      [
+        "The hot prince sees the sweet doors and The tall hunter meeted the thin scrolls",
+        "daqbxi onucpyen la-fiu eulugu vtouugjou sa oezi omakufuen na-sehuv cogaluda eiqau"
+      ],
+      [
+        "The snake meets the old sticks or The loud bears showed the thin stone",
+        "razen la-sehuv luda uzoupu ra bfa zioku na-upatouh cogaluda ewaen"
+      ],
+      [
+        "The tall workers sees the hot beach or The broken prince will teach the tall door",
+        "oezi hzafu la-fiu daqbxi olouxen ra ukevag onucpyen ka-iipiewav oezi vtiuugjoen"
+      ]
+    ],
+    "test": [
+      [
+        "The fighter will meet the sticks but The students standed the loud stick",
+        "popunnen ka-iipiewav uzoupu ba wupu na-evelpaha bfa uziupen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The builders will sell the funny train or The doctor calls the trains",
+        "ciekpu ka-iipiewav eguim gejeoaen ra kaoen la-qraxu gejeoeu"
+      ],
+      [
+        "The brother builded the young moon but The dirty follower will throw the train",
+        "kkarfopen na-iru ferurica egigiilaen ba iqgirid eivien ka-iipiewav gejeoaen"
+      ],
+      [
+        "The funny snake will open the radio and The fast aliens improves the boxes",
+        "eguim razen ka-iipiewav riuen sa uleabe ufojeru la-sopewigu izezu"
+      ],
+      [
+        "The owls opened the wet hats and The stranger closes the funny treasure",
+        "iyiquu na-hixis iezro jivukemou sa unuzen la-uwfub eguim iatcen"
+      ],
+      [
+        "The fast owl throwed the young hat but The students bringed the broken wheels",
+        "uleabe iyequen na-bisa ferurica jivukamoen ba wupu na-juva ukevag rumou"
+      ]
+    ],
+    "test": [
+      [
+        "The student builds the moon and The doctor will throw the boxes",
+        "wopen la-iru egigiilaen sa kaoen ka-iipiewav izezu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The warm assistants plans the kind engines but The farmers swims the roads",
+        "vafitiow guideesu la-bid tamu ba evociu la-uzo nexiku"
+      ],
+      [
+        "The famous writer starts the thick food but The judges planted the empty shield",
+        "liowvevo qsuiteen la-wifj xuy uzeen ba ohiiluwu na-onevuw aliiebe ezuegsen"
+      ],
+      [
+        "The warm captain starts the coin but The farmers plans the thick road",
+        "vafitiow voanuhceen la-wifj kuriliuen ba evociu la-bid xuy naxiken"
+      ],
+      [
+        "The captains shrinked the boxes but The famous enemy knows the tiny bridge",
+        "voenuhceu na-aebagiq izezu ba liowvevo gasanen la-toqofofu erlu isdaxoveen"
+      ],
+      [
+        "The neighbor will destroy the boxes because The wolf rides the easy stick",
+        "zunovugen ka-iipiewav izezu ko eqrpkeifen la-haq otuni uziupen"
+      ]
+    ],
+    "test": [
+      [
+        "The empty writer plants the engines but The kind judges will plant the foods",
+        "aliiebe qsuiteen la-onevuw tamu ba ohiiluwu ka-iipiewav uziu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The wild woman talked the dangerous door but The women will talk the early shoes",
+        "mocggama wpien na-dieeue emiasce vtiuugjoen ba wpou ka-iipiewav aiy oolpou"
+      ],
+      [
+        "The early princess fighted the serious gift and The android throwed the knife",
+        "aiy toyen na-amex wokxe icien sa taowoen na-bisa adaen"
+      ],
+      [
+        "The dangerous princesses fights the cool shoe but The ninjas createed the short camera",
+        "emiasce tuyu la-amex oxhe oolpien ba pohijiusen na-eno ebfup aaotuen"
+      ],
+      [
+        "The serious woman receives the knife and The princess will travel the brush",
+        "wokxe wpien la-uyubu adaen sa toyen ka-iipiewav rqxiforen"
+      ],
+      [
+        "The wet bears played the shoes but The angry scientist will receive the cameras",
+        "iezro zioku na-sawesali oolpou ba oogeuloy ilavisaen ka-iipiewav eaotuu"
+      ]
+    ],
+    "test": [
+      [
+        "The short bear will travel the camera but The princess travels the knife",
+        "ebfup zeoken ka-iipiewav aaotuen ba toyen la-pamek adaen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The soft driver buyed the castles or The rich farmers selled the old shirts",
+        "hilacub elawaen na-ivamo kucu ra exusuxe evociu na-eyn luda iucilurhu"
+      ],
+      [
+        "The wild baby selled the clean helmets or The small women will start the garden",
+        "mocggama koidevuen na-eyn vehecvu egfeuu ra tuh wpou ka-iipiewav bzojoien"
+      ],
+      [
+        "The dragons will carry the clean windows and The boss destroys the lazy clock",
+        "exouodau ka-iipiewav vehecvu owgideu sa aufepen la-ayugeces sdesln vijoen"
+      ],
+      [
+        "The slow baby moveed the flowers or The soft girl moves the flower",
+        "use koidevuen na-vefi omizou ra hilacub bakusuen la-vefi omezoen"
+      ],
+      [
+        "The sister chooseed the garden because The small farmer will move the balls",
+        "cowedgen la-zec bzojoien ko tuh avocien ka-iipiewav iviu"
+      ]
+    ],
+    "test": [
+      [
+        "The rich dragon will carry the windows because The wild boss will start the lazy flower",
+        "exusuxe axouodaen ka-iipiewav owgideu ko mocggama aufepen ka-iipiewav sdesln omezoen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The champions closes the map and The manager will visit the brushes",
+        "xoyu la-uwfub oeozueden sa wayuen ka-iipiewav rqxoforu"
+      ],
+      [
+        "The noisy workers will sleep the big castle because The managers will swim the strange lamps",
+        "heatix hzafu ka-iipiewav atfude kocen ko weyuu ka-iipiewav lboziqab enidaukeu"
+      ],
+      [
+        "The tall hunters will sleep the big map and The flat singer sleeps the flat rings",
+        "oezi omekufuu ka-iipiewav atfude oeozueden sa nqup qowejen la-uyo nqup uvuu"
+      ],
+      [
+        "The champion meets the tall cake but The free eagle will cut the tall rings",
+        "xiyen la-sehuv oezi jteouben ba ivima vnepoen ka-iipiewav oezi uvuu"
+      ],
+      [
+        "The kings will sleep the flat maps or The dancers waited the strange cake",
+        "oquu ka-iipiewav nqup oiozuedu ra okiiu na-qartzifi lboziqab jteouben"
+      ]
+    ],
+    "test": [
+      [
+        "The champions closes the map but The noisy dancer visits the map",
+        "xoyu la-uwfub oeozueden ba heatix okeien la-roxicu oeozueden"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The quick kinght wined the dark plate but The manager planted the silent maps",
+        "ofup upixedaien na-asg diie ozinaen ba wayuen na-onevuw xegiou oiozuedu"
+      ],
+      [
+        "The captain will break the plate and The sailor knows the coin",
+        "voanuhceen ka-iipiewav ozinaen sa zagujaiwen la-toqofofu kuriliuen"
+      ],
+      [
+        "The safe friend will sit the silent plates but The empty friend starts the thin soap",
+        "adifd khokayheen ka-iipiewav xegiou ozineu ba aliiebe khokayheen la-wifj cogaluda ahaen"
+      ],
+      [
+        "The silent programmer watched the quick helmet but The assistants will watch the clocks",
+        "xegiou iguginuen na-eya ofup agfeuen ba guideesu ka-iipiewav vojou"
+      ],
+      [
+        "The captain will sit the soaps because The programmer will break the silent lamps",
+        "voanuhceen ka-iipiewav ehau ko iguginuen ka-iipiewav xegiou enidaukeu"
+      ]
+    ],
+    "test": [
+      [
+        "The captains knows the safe helmet and The quick programmers sits the dark map",
+        "voenuhceu la-toqofofu adifd agfeuen sa ofup oguginuu la-ice diie oeozueden"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The thin drivers decides the thin cars but The bosses will start the mountains",
+        "cogaluda elewau la-ewuu cogaluda ookou ba eufepu ka-iipiewav iwiu"
+      ],
+      [
+        "The pilots builds the silent maps because The lizard fights the soaps",
+        "egeou la-iru xegiou oiozuedu ko oipen la-amex ehau"
+      ],
+      [
+        "The calm driver fighted the sofas because The shark standed the late car",
+        "cwacd elawaen na-amex iloen ko euruen na-evelpaha uruyifad oikoen"
+      ],
+      [
+        "The farmer stands the shields but The swimmer will send the hats",
+        "avocien la-evelpaha izuegsu ba igegihuren ka-iipiewav jivukemou"
+      ],
+      [
+        "The driver starts the hats or The noisy friends will find the clock",
+        "elawaen la-wifj jivukemou ra heatix khokeyheu ka-iipiewav vijoen"
+      ]
+    ],
+    "test": [
+      [
+        "The drivers will find the clock or The pilot sended the shields",
+        "elewau ka-iipiewav vijoen ra ageoen na-eif izuegsu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The early judges draws the early coin because The kind knight will fly the early bridges",
+        "aiy ohiiluwu la-anomuuew aiy kuriliuen ko tuzatew iakoen ka-iipiewav aiy isdexoveu"
+      ],
+      [
+        "The knight learns the tiny lamps because The robot climbs the diamonds",
+        "iakoen la-aaxo erlu enidaukeu ko hipuen la-dpep ixubu"
+      ],
+      [
+        "The weak villains uses the sweet shield because The silver villains will lift the maps",
+        "eraqeok beequeu la-onxeboo eulugu ezuegsen ko zoqi beequeu ka-iipiewav oiozuedu"
+      ],
+      [
+        "The tiny judges will drop the easy food but The noisy androids drops the serious coins",
+        "erlu ohiiluwu ka-iipiewav otuni uzeen ba heatix teowou la-ram wokxe kuroliuu"
+      ],
+      [
+        "The sweet robot stoped the lamp or The easy singers droped the food",
+        "eulugu hipuen na-ukuod anidaukeen ra otuni qowiju na-ram uzeen"
+      ]
+    ],
+    "test": [
+      [
+        "The tiny knights stops the sweet lamp because The villain will stop the early diamonds",
+        "erlu iekou la-ukuod eulugu anidaukeen ko beequaen ka-iipiewav aiy ixubu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The dancers will begin the brush or The noisy dancer cooks the apples",
+        "okiiu ka-iipiewav rqxiforen ra heatix okeien la-dueka buuuu"
+      ],
+      [
+        "The singer will send the sweet apples and The monster sends the bottle",
+        "qowejen ka-iipiewav eulugu buuuu sa yayuen la-eif tjafien"
+      ],
+      [
+        "The villain pulled the ring and The brave sisters grows the ring",
+        "beequaen na-kiosae uvoen sa ucisu cowidgu la-gxet uvoen"
+      ],
+      [
+        "The friend lifted the flowers and The rough driver cooks the bottles",
+        "khokayheen na-besu omizou sa wasa elawaen la-dueka tjefiu"
+      ],
+      [
+        "The thick dancer forgeted the apple because The wild drivers lifts the weak toys",
+        "xuy okeien na-aeq buouen ko mocggama elewau la-besu eraqeok epukoilqu"
+      ]
+    ],
+    "test": [
+      [
+        "The monsters growed the noisy ring because The dancers cooks the weak toys",
+        "yeyuu na-gxet heatix uvoen ko okiiu la-dueka eraqeok epukoilqu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The eagle washed the garden and The knight growed the calm phones",
+        "vnepoen na-fusupivo bzojoien sa iakoen na-gxet cwacd udskiwu"
+      ],
+      [
+        "The busy neighbor moveed the radios or The wild captains eats the big radios",
+        "uoci zunovugen na-vefi rouu ra mocggama voenuhceu la-ilijv atfude rouu"
+      ],
+      [
+        "The strange men opens the cold phones or The wild knights washs the sofa",
+        "lboziqab nueu la-hixis zeaipo udskiwu ra mocggama iekou la-yoexixis iwewoen"
+      ],
+      [
+        "The big knight will wash the young city because The full assistants receiveed the garden",
+        "atfude iakoen ka-iipiewav ferurica qicarpaen ko owowoes guideesu la-iflm bzojoien"
+      ],
+      [
+        "The guard will grow the young cities or The full giants grows the active sofa",
+        "sozayelden ka-iipiewav ferurica qicerpau ra owowoes oqiupeidu la-gxet iyexl iwewoen"
+      ]
+    ],
+    "test": [
+      [
+        "The cold giant will eat the gardens and The giants will move the radio",
+        "zeaipo oqeupeiden ka-iipiewav bzojoou sa oqiupeidu ka-iipiewav riuen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The assistants will meet the villages because The weak king meets the rings",
+        "guideesu ka-iipiewav mocromuhu ko eraqeok iquen la-sehuv uvuu"
+      ],
+      [
+        "The sharp thief waited the weak rings or The friends meets the desk",
+        "odu wgaguhien na-qartzifi eraqeok uvuu ra khokeyheu la-sehuv gatosaen"
+      ],
+      [
+        "The friendly swimmers standed the weak desks but The king readed the ring",
+        "zeevquo igigihuru na-evelpaha eraqeok getosau ba iquen na-rou uvoen"
+      ],
+      [
+        "The sailors will stand the desk but The silver cat will wait the strong bag",
+        "zegujaiwu ka-iipiewav gatosaen ba zoqi ohien ka-iipiewav fovdudip oiween"
+      ],
+      [
+        "The friendly doctor will follow the sharp suns because The big doctors will follow the villages",
+        "zeevquo kaoen ka-iipiewav odu ehoaesau ko atfude keou ka-iipiewav mocromuhu"
+      ]
+    ],
+    "test": [
+      [
+        "The silver assistant waits the bags because The strong assistants waited the rings",
+        "zoqi guidaesen la-qartzifi oiwiu ko fovdudip guideesu na-qartzifi uvuu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The golden judge eated the shirt and The easy swimmer draws the desks",
+        "ekuno ohieluwen na-ilijv iucelurhen sa otuni igegihuren la-anomuuew getosau"
+      ],
+      [
+        "The serious owls hideed the golden gift because The hero will fight the serious books",
+        "wokxe iyiquu na-zoyan ekuno icien ko uuven ka-iipiewav wokxe gocesihu"
+      ],
+      [
+        "The student travels the active treasures or The strange lions will draw the empty treasures",
+        "wopen la-pamek iyexl ietcu ra lboziqab eseu ka-iipiewav aliiebe ietcu"
+      ],
+      [
+        "The golden writers fighted the shirts because The active student flyed the strange treasure",
+        "ekuno qsuitiu na-amex iucilurhu ko iyexl wopen na-cis lboziqab iatcen"
+      ],
+      [
+        "The empty hero fighted the empty bridges and The rider will draw the treasure",
+        "aliiebe uuven na-amex aliiebe isdexoveu sa ioporuzen ka-iipiewav iatcen"
+      ]
+    ],
+    "test": [
+      [
+        "The writers hideed the books and The judges traveled the serious treasures",
+        "qsuitiu na-zoyan gocesihu sa ohiiluwu na-pamek wokxe ietcu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The lazy dogs will run the islands because The free sailor buyed the tired plates",
+        "sdesln cocuwiu ka-iipiewav lidriuu ko ivima zagujaiwen na-ivamo esaa ozineu"
+      ],
+      [
+        "The polices buyed the farms or The managers will buy the lazy farm",
+        "iekuduu na-ivamo toiu ra weyuu ka-iipiewav sdesln toeen"
+      ],
+      [
+        "The managers likes the bright train and The busy managers will walk the sun",
+        "weyuu la-cawl qgeeacu gejeoaen sa uoci weyuu ka-iipiewav ahoaesaen"
+      ],
+      [
+        "The free owners pulled the dry farms and The guest cooked the lazy farm",
+        "ivima mildeu na-kiosae uucopizo toiu sa unqien na-dueka sdesln toeen"
+      ],
+      [
+        "The busy guests meeted the sofas because The enemy will finish the plates",
+        "uoci unqou na-sehuv iloen ko gasanen ka-iipiewav ozineu"
+      ]
+    ],
+    "test": [
+      [
+        "The sailor will walk the suns or The polices meeted the plates",
+        "zagujaiwen ka-iipiewav ehoaesau ra iekuduu na-sehuv ozineu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The golden polices explores the radio or The dry scientists will pull the helmet",
+        "ekuno iekuduu la-roxokusu riuen ra uucopizo ilevisau ka-iipiewav agfeuen"
+      ],
+      [
+        "The famous leader visits the shields but The strong lizard sells the shield",
+        "liowvevo awijoen la-roxicu izuegsu ba fovdudip oipen la-eyn ezuegsen"
+      ],
+      [
+        "The bird decideed the strong book or The student throwed the castle",
+        "cvuien la-uwehaiva fovdudip gocasihen ra wopen na-bisa kocen"
+      ],
+      [
+        "The early birds visited the golden pencils but The bears digs the islands",
+        "aiy cvuou na-roxicu ekuno icuxiluu ba zioku la-punihu lidriuu"
+      ],
+      [
+        "The lizards sells the sofa because The beautiful princesses will dig the late pencil",
+        "oopu la-eyn iwewoen ko dowison tuyu ka-iipiewav uruyifad ecuxiluen"
+      ]
+    ],
+    "test": [
+      [
+        "The leader exploreed the famous island because The beautiful students digs the island",
+        "awijoen na-roxokusu liowvevo lidreuen ko dowison wupu la-punihu lidreuen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The androids will make the noisy suns but The weak ghost makeed the suns",
+        "teowou ka-iipiewav heatix ehoaesau ba eraqeok efzaben na-qofidl ehoaesau"
+      ],
+      [
+        "The round hunter will make the desks but The driver travels the papers",
+        "algiq omakufuen ka-iipiewav getosau ba elawaen la-pamek kerecu"
+      ],
+      [
+        "The soft artists will stand the noisy boat and The woman will repair the soft desks",
+        "hilacub qeabu ka-iipiewav heatix ooqofen sa wpien ka-iipiewav hilacub getosau"
+      ],
+      [
+        "The artist will cut the short stones or The quick child carryed the clever stones",
+        "qaaben ka-iipiewav ebfup eweu ra ofup wapoiheen na-plewr vauqsk eweu"
+      ],
+      [
+        "The parent cuted the quick stones or The parents stands the quick door",
+        "hinen na-haey ofup eweu ra honu la-evelpaha ofup vtiuugjoen"
+      ]
+    ],
+    "test": [
+      [
+        "The short hunter will repair the desks or The hunter repaired the clever sun",
+        "ebfup omakufuen ka-iipiewav getosau ra omakufuen na-eepo vauqsk ahoaesaen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The clown will hide the soap or The clean ghosts destroyed the square cups",
+        "useumuyen ka-iipiewav ahaen ra vehecvu efzebu na-ayugeces oorigub eyoelatu"
+      ],
+      [
+        "The robot rides the narrow pictures because The sharp guest will sit the dangerous flag",
+        "hipuen la-haq ifutoj citeyoju ko odu unqien ka-iipiewav emiasce epiien"
+      ],
+      [
+        "The witch will destroy the metal flags but The shark will ride the clean cups",
+        "todafaeen ka-iipiewav ipiiu ba euruen ka-iipiewav gugen"
+      ],
+      [
+        "The square runner closeed the metal boat but The fast pirates will find the cups",
+        "oorigub uigosieven na-uwfub ooqofen ba uleabe tijyoxiju ka-iipiewav eyoelatu"
+      ],
+      [
+        "The robots rides the car and The metal robots sited the flags",
+        "hopuu la-haq oikoen sa hopuu na-xoxahu ipiiu"
+      ]
+    ],
+    "test": [
+      [
+        "The dangerous sharks finds the flags but The metal guests sits the picture",
+        "emiasce iuruu la-uusojz ipiiu ba unqou la-ice citayojen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The friendly thief moves the friendly motorcycle but The famous girl breaks the cameras",
+        "zeevquo wgaguhien la-vefi zeevquo urewuen ba liowvevo bakusuen la-xekup eaotuu"
+      ],
+      [
+        "The clean tiger plays the soft foods because The smart dog understanded the motorcycle",
+        "vehecvu miaen la-sawesali hilacub uziu ko ooz cocuween na-itebu urewuen"
+      ],
+      [
+        "The fighter will travel the soft boat and The players planed the poor helmet",
+        "popunnen ka-iipiewav hilacub ooqofen sa ueteu na-sec uwukad agfeuen"
+      ],
+      [
+        "The fighter knows the clean shirts but The thiefs learns the ring",
+        "popunnen la-toqofofu vehecvu iucilurhu ba wgeguhiu la-aaxo uvoen"
+      ],
+      [
+        "The poor woman traveled the helmet because The girls learned the soft shirt",
+        "uwukad wpien na-pamek agfeuen ko bekusuu na-aaxo hilacub iucelurhen"
+      ]
+    ],
+    "test": [
+      [
+        "The clean thief moveed the friendly cameras but The poor fighter travels the poor cameras",
+        "vehecvu wgaguhien na-vefi zeevquo eaotuu ba uwukad popunnen la-pamek uwukad eaotuu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The kinght seeed the brushes but The short bear throws the balls",
+        "upixedaien na-fiu rqxoforu ba ebfup zeoken la-bisa iviu"
+      ],
+      [
+        "The guests starts the ball or The baby takes the wild map",
+        "unqou la-wifj iveen ra koidevuen la-peoyeqoc mocggama oeozueden"
+      ],
+      [
+        "The bosses hopes the camera and The boss throwed the early boxes",
+        "eufepu la-ifqou aaotuen sa aufepen na-bisa aiy izezu"
+      ],
+      [
+        "The babies hopeed the early clock because The wild horse drawed the smart mirrors",
+        "koidivuu la-ecq ko mocggama egihoen na-anomuuew ooz podowuu"
+      ],
+      [
+        "The kinghts will fly the beds but The early bird will build the ball",
+        "upixedeiu ka-iipiewav gedenyau ba aiy cvuien ka-iipiewav iveen"
+      ]
+    ],
+    "test": [
+      [
+        "The baby throwed the wild ball but The babies hopeed the map",
+        "koidevuen na-bisa mocggama iveen ba koidivuu na-ifqou oeozueden"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The broken dog driveed the moon and The owl drawed the bicycles",
+        "ukevag cocuween na-upu egigiilaen sa iyequen na-anomuuew yigliiiuu"
+      ],
+      [
+        "The dragons will drive the engine but The brave sister will improve the brave moons",
+        "exouodau ka-iipiewav tumen ba ucisu cowedgen ka-iipiewav ucisu egigiileu"
+      ],
+      [
+        "The followers will repair the waters or The owl will sleep the wooden papers",
+        "iiviu ka-iipiewav lizudu ra iyequen ka-iipiewav iaqamo kerecu"
+      ],
+      [
+        "The funny soldier will drive the knives and The wooden thief showed the wooden bicycle",
+        "eguim fajeaen ka-iipiewav edau sa iaqamo wgaguhien na-upatouh iaqamo yigliieuen"
+      ],
+      [
+        "The smooth clown improveed the hammers and The dragon improves the active towel",
+        "doseti useumuyen na-sopewigu toku sa axouodaen la-sopewigu iyexl nubaxen"
+      ]
+    ],
+    "test": [
+      [
+        "The soldiers will drive the papers or The broken dogs drives the funny hammers",
+        "fejeau ka-iipiewav kerecu ra ukevag cocuwiu la-upu eguim toku"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The dog catchs the tickets or The metal owl shrinks the camera",
+        "cocuween la-vuebiv ibieu ra iyequen la-aebagiq aaotuen"
+      ],
+      [
+        "The dancers teached the dry gift because The dry enemies will drive the thin city",
+        "okiiu na-qukizn uucopizo icien ko uucopizo gesanu ka-iipiewav cogaluda qicarpaen"
+      ],
+      [
+        "The sweet bosses walked the rivers but The thin assistant will catch the soft river",
+        "eulugu eufepu na-gibuice akusu ba cogaluda guidaesen ka-iipiewav hilacub ukusen"
+      ],
+      [
+        "The enemies will start the sweet motorcycle or The soft owl walked the free motorcycles",
+        "gesanu ka-iipiewav eulugu urewuen ra hilacub iyequen na-gibuice ivima uriwuu"
+      ],
+      [
+        "The sharp fox useed the light cameras because The builders climbed the sofa",
+        "odu gafaen ko ciekpu na-dpep iwewoen"
+      ]
+    ],
+    "test": [
+      [
+        "The metal owls useed the soft motorcycles because The assistants starts the free rivers",
+        "fuvien la-gafa hilacub uriwuu ko guideesu la-wifj ivima akusu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The robots plants the scrolls and The workers will open the door",
+        "hopuu la-onevuw eiqau sa hzafu ka-iipiewav vtiuugjoen"
+      ],
+      [
+        "The friends will read the door or The empty pilots cleans the sticks",
+        "khokeyheu ka-iipiewav vtiuugjoen ra aliiebe egeou la-vehecvu uzoupu"
+      ],
+      [
+        "The fighter plants the trains or The ugly robot shrinks the breads",
+        "popunnen la-onevuw gejeoeu ra nbej hipuen  cijuvoqiu"
+      ],
+      [
+        "The smooth players will clean the brave farms and The fighters cleaned the scroll",
+        "doseti ueteu ka-iipiewav ucisu toiu sa pupunnu na-vehecvu aiqaen"
+      ],
+      [
+        "The clean doctors planted the ring and The strange robot readed the diamond",
+        "vehecvu keou na-onevuw uvoen sa lboziqab hipuen na-rou exuben"
+      ]
+    ],
+    "test": [
+      [
+        "The robots will plant the diamond and The player opens the brave diamonds",
+        "hopuu ka-iipiewav exuben sa uetaen la-hixis ucisu ixubu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The ugly strangers closes the smooth suns or The swimmers will fix the hard stone",
+        "nbej anuzu la-uwfub doseti ehoaesau ra igigihuru ka-iipiewav gac ewaen"
+      ],
+      [
+        "The full eagles will take the shirt and The alien will eat the tiny chair",
+        "owowoes vnipou ka-iipiewav iucelurhen sa ufojaren ka-iipiewav erlu adigeen"
+      ],
+      [
+        "The hard swimmer eated the island because The smooth artists will cook the hard shirt",
+        "gac igegihuren na-ilijv lidreuen ko doseti qeabu ka-iipiewav gac iucelurhen"
+      ],
+      [
+        "The thief designed the sharp shirts but The ghost will meet the sharp sticks",
+        "wgaguhien na-ialejge odu iucilurhu ba efzaben ka-iipiewav odu uzoupu"
+      ],
+      [
+        "The rider will take the sweet sun because The artist will design the tiny map",
+        "ioporuzen ka-iipiewav eulugu ahoaesaen ko qaaben ka-iipiewav erlu oeozueden"
+      ]
+    ],
+    "test": [
+      [
+        "The ugly aliens will cook the map and The rider cooks the stones",
+        "nbej ufojeru ka-iipiewav oeozueden sa ioporuzen la-dueka eweu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The witches shrinks the early suns but The giants shrinks the shield",
+        "todefaeu la-aebagiq aiy ehoaesau ba oqiupeidu la-aebagiq ezuegsen"
+      ],
+      [
+        "The polite programmer sells the sun but The enemies stops the safe shield",
+        "beruhu iguginuen la-eyn ahoaesaen ba gesanu la-ukuod adifd ezuegsen"
+      ],
+      [
+        "The giants will see the knife and The quiet owl will visit the diamond",
+        "oqiupeidu ka-iipiewav adaen sa uqenuva iyequen ka-iipiewav exuben"
+      ],
+      [
+        "The friends will visit the key but The beautiful programmers shrinks the early golds",
+        "khokeyheu ka-iipiewav nvosikden ba dowison oguginuu la-aebagiq aiy oxiju"
+      ],
+      [
+        "The safe soldiers will search the shield or The heroes takes the brave bottle",
+        "adifd fejeau ka-iipiewav ezuegsen ra auvu la-peoyeqoc ucisu tjafien"
+      ]
+    ],
+    "test": [
+      [
+        "The polite friend stops the shield or The enemies visits the knife",
+        "beruhu khokayheen la-ukuod ezuegsen ra gesanu la-roxicu adaen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The dog receives the cool mountain or The tiger opens the warm bridges",
+        "cocuween la-uyubu oxhe ewien ra miaen la-hixis vafitiow isdexoveu"
+      ],
+      [
+        "The cool lizards useed the ugly letters and The tiger catched the bridges",
+        "oxhe oopu la-gafa nbej eieru sa miaen na-vuebiv isdexoveu"
+      ],
+      [
+        "The bright champions will talk the long cakes but The managers fixed the papers",
+        "qgeeacu xoyu ka-iipiewav dozze jtioubu ba weyuu na-adijeh kerecu"
+      ],
+      [
+        "The villain receives the cool silvers or The judges catchs the flat clock",
+        "beequaen la-uyubu oxhe zoqou ra ohiiluwu la-xexi nqup vijoen"
+      ],
+      [
+        "The prince talks the short house but The swimmer takeed the bright mirrors",
+        "onucpyen la-dieeue ebfup aumebpen ba igegihuren la-unyi qgeeacu podowuu"
+      ]
+    ],
+    "test": [
+      [
+        "The ugly managers will talk the houses or The dog useed the warm silvers",
+        "nbej weyuu ka-iipiewav eumebpu ra cocuween la-gafa vafitiow zoqou"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The golden foxes will remember the golden river and The poor rider knowed the papers",
+        "ekuno onuxdiu ka-iipiewav ukusen sa uwukad ioporuzen na-toqofofu kerecu"
+      ],
+      [
+        "The witch followed the forest because The ancient robots begins the red river",
+        "todafaeen na-vehaqopn ccaqqifen ko izaehix hopuu la-ixooec ukusen"
+      ],
+      [
+        "The golden foxes sended the red ship or The friendly dogs forgets the empty river",
+        "ekuno onuxdiu na-eif eiapxdh akuoumaen ra zeevquo cocuwiu la-aeq aliiebe ukusen"
+      ],
+      [
+        "The ancient visitors knowed the balls and The poor visitors will begin the empty hammer",
+        "izaehix qavu na-toqofofu iviu sa uwukad qavu ka-iipiewav aliiebe tiken"
+      ],
+      [
+        "The snakes wins the light ship but The witches will follow the maps",
+        "rezu la-ofup tokaox akuoumaen ba todefaeu ka-iipiewav oiozuedu"
+      ]
+    ],
+    "test": [
+      [
+        "The fox sended the ancient rivers because The robot remembers the forests",
+        "onuxdeen na-eif izaehix akusu ko hipuen la-kreoeu cceqqifu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The serious doctors will lift the island or The player thinks the clocks",
+        "wokxe keou ka-iipiewav lidreuen ra uetaen la-esou vojou"
+      ],
+      [
+        "The dragon wakes the city or The doctor opens the happy towel",
+        "axouodaen la-vioeb qicarpaen ra kaoen la-hixis worv nubaxen"
+      ],
+      [
+        "The silver wolves climbed the clocks and The wolf sleeps the apples",
+        "iqrpkeifu na-dpep vojou sa eqrpkeifen la-uyo buuuu"
+      ],
+      [
+        "The readers painted the mountain but The strange player opened the clean mountains",
+        "amhu na-uqe ewien ba lboziqab uetaen na-hixis vehecvu iwiu"
+      ],
+      [
+        "The dragon wakeed the slow apple and The serious followers painted the apple",
+        "axouodaen na-vioeb use buouen sa wokxe iiviu na-uqe buouen"
+      ]
+    ],
+    "test": [
+      [
+        "The happy doctors will wake the towels but The dragons will climb the mountains",
+        "worv keou ka-iipiewav nubexu ba exouodau ka-iipiewav iwiu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The ancient writer will find the rich keys and The rough manager waits the thick flags",
+        "izaehix qsuiteen ka-iipiewav exusuxe nvosokdu sa wasa wayuen la-qartzifi xuy ipiiu"
+      ],
+      [
+        "The soldiers wins the rivers but The thick fox waited the rough moon",
+        "fejeau la-ofup akusu ba xuy onuxdeen na-qartzifi wasa egigiilaen"
+      ],
+      [
+        "The runner started the gardens but The wild runner stops the sword",
+        "uigosieven na-wifj bzojoou ba mocggama uigosieven la-ukuod neaven"
+      ],
+      [
+        "The fox waits the moons because The champion receiveed the knife",
+        "onuxdeen la-qartzifi egigiileu ko xiyen na-uyubu adaen"
+      ],
+      [
+        "The plastic workers will stop the ancient knife but The rich foxes starts the diamonds",
+        "bipadjap hzafu ka-iipiewav izaehix adaen ba exusuxe onuxdiu la-wifj ixubu"
+      ]
+    ],
+    "test": [
+      [
+        "The managers waited the gardens but The fox will wait the river",
+        "weyuu na-qartzifi bzojoou ba onuxdeen ka-iipiewav ukusen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The players painted the farm but The dancers will catch the diamond",
+        "ueteu na-uqe toeen ba okiiu ka-iipiewav exuben"
+      ],
+      [
+        "The leader played the tired phones or The farmers changes the huge diamonds",
+        "awijoen na-sawesali esaa udskiwu ra evociu la-oskojuzv falerd ixubu"
+      ],
+      [
+        "The horse draws the hard cake or The dancer standed the plastic maps",
+        "egihoen la-anomuuew gac jteouben ra okeien na-evelpaha oiozuedu"
+      ],
+      [
+        "The dogs stands the plastic phone or The captain will shrink the plastic cake",
+        "cocuwiu la-evelpaha bipadjap udskewen ra voanuhceen ka-iipiewav jteouben"
+      ],
+      [
+        "The metal pilots will remember the light lamps because The light pilots draws the hard houses",
+        "egeou ka-iipiewav tokaox enidaukeu ko egeou la-anomuuew gac eumebpu"
+      ]
+    ],
+    "test": [
+      [
+        "The dog will play the tired house but The hard dogs drawed the phone",
+        "cocuween ka-iipiewav esaa aumebpen ba gac cocuwiu na-anomuuew udskewen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The man will know the late chair but The fast sailors meeted the dry letters",
+        "nuaen ka-iipiewav uruyifad adigeen ba uleabe zegujaiwu na-sehuv uucopizo eieru"
+      ],
+      [
+        "The dry thief will meet the soft tower but The woman knowed the letters",
+        "uucopizo wgaguhien ka-iipiewav hilacub vaaen ba wpien na-toqofofu eieru"
+      ],
+      [
+        "The quick owls diged the farms or The reader closes the letter",
+        "ofup iyiquu na-punihu toiu ra umhen la-uwfub aieren"
+      ],
+      [
+        "The sailor eated the rope because The quick farmers will know the city",
+        "zagujaiwen na-ilijv zueen ko ofup evociu ka-iipiewav qicarpaen"
+      ],
+      [
+        "The golden artist carrys the fast chair and The owl finishs the brave towers",
+        "ekuno qaaben la-plewr uleabe adigeen sa iyequen la-redef ucisu veau"
+      ]
+    ],
+    "test": [
+      [
+        "The woman eated the fast letters but The brave thiefs closeed the chairs",
+        "wpien na-ilijv uleabe eieru ba edigeu la-wgaguhi edigeu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The cold runners growed the soft swords but The guests growed the square mirrors",
+        "zeaipo uigosiivu na-gxet hilacub neevu ba unqou na-gxet oorigub podowuu"
+      ],
+      [
+        "The player will bring the old gift but The player brings the strange ships",
+        "uetaen ka-iipiewav luda icien ba uetaen la-juva lboziqab ekuoumau"
+      ],
+      [
+        "The wooden visitor exploreed the ship and The visitors will lift the soft castles",
+        "iaqamo quven na-roxokusu akuoumaen sa qavu ka-iipiewav hilacub kucu"
+      ],
+      [
+        "The soft visitor cooks the tree but The square sisters will build the poor soaps",
+        "hilacub quven la-dueka itaogen ba oorigub cowidgu ka-iipiewav uwukad ehau"
+      ],
+      [
+        "The men exploreed the shoes because The friendly leader grows the cities",
+        "nueu la-iabua oolpou ko zeevquo awijoen la-gxet qicerpau"
+      ]
+    ],
+    "test": [
+      [
+        "The strange leader brings the soaps and The poor runner cooks the castles",
+        "lboziqab awijoen la-juva ehau sa uigosieven la-dueka kucu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The tiny builder stands the clock because The empty student watchs the river",
+        "erlu ciakpen la-evelpaha vijoen ko aliiebe wopen la-eya ukusen"
+      ],
+      [
+        "The wild programmer will bring the narrow villages because The students will hide the cakes",
+        "mocggama iguginuen ka-iipiewav ifutoj mocromuhu ko wupu ka-iipiewav jtioubu"
+      ],
+      [
+        "The rude girl chooses the brush and The empty teachers bringed the red village",
+        "placi bakusuen la-olvcn rqxiforen sa aliiebe vetarvcu na-juva eiapxdh mocrimuhen"
+      ],
+      [
+        "The slow assistant growed the ring but The sharks will choose the village",
+        "use guidaesen na-gxet uvoen ba iuruu ka-iipiewav mocrimuhen"
+      ],
+      [
+        "The eagle hideed the red village and The red worker will watch the bridges",
+        "vnepoen na-zoyan eiapxdh mocrimuhen sa eiapxdh hzufen ka-iipiewav isdexoveu"
+      ]
+    ],
+    "test": [
+      [
+        "The builder will choose the slow brush but The sharks will hide the cakes",
+        "ciakpen ka-iipiewav use rqxiforen ba iuruu ka-iipiewav jtioubu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The silent neighbor will start the stone or The riders improveed the clean shoe",
+        "xegiou zunovugen ka-iipiewav ewaen ra ooporuzu na-sopewigu vehecvu oolpien"
+      ],
+      [
+        "The friendly pirates will sell the friendly shoe because The lazy aliens will sell the hard gifts",
+        "zeevquo tijyoxiju ka-iipiewav zeevquo oolpien ko sdesln ufojeru ka-iipiewav gac ociu"
+      ],
+      [
+        "The tiny followers calls the windows because The neighbor climbed the gift",
+        "erlu iiviu la-qraxu owgideu ko zunovugen na-dpep icien"
+      ],
+      [
+        "The guest runs the windows but The silent followers will sell the stones",
+        "unqien la-idelu owgideu ba xegiou iiviu ka-iipiewav eweu"
+      ],
+      [
+        "The clean follower will carry the village but The foxes improves the lazy stone",
+        "vehecvu eivien ka-iipiewav mocrimuhen ba onuxdiu la-sopewigu sdesln ewaen"
+      ]
+    ],
+    "test": [
+      [
+        "The aliens climbs the stone or The alien climbs the friendly stone",
+        "ufojeru la-dpep ewaen ra ufojaren la-dpep zeevquo ewaen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The silent leader will cut the moon but The soldier rideed the rope",
+        "xegiou awijoen ka-iipiewav egigiilaen ba fajeaen la-xenm zueen"
+      ],
+      [
+        "The happy androids cuted the noisy pencil because The silver leaders pushed the maps",
+        "worv teowou na-haey heatix ecuxiluen ko ewijou na-vcewi oiozuedu"
+      ],
+      [
+        "The eagles digs the warm ticket or The heavy soldiers will push the farm",
+        "vnipou na-punihu vafitiow ibiaen ra szocehea fejeau ka-iipiewav toeen"
+      ],
+      [
+        "The horses will receive the maps or The sailors will fly the farm",
+        "igihou ka-iipiewav oiozuedu ra zegujaiwu ka-iipiewav toeen"
+      ],
+      [
+        "The heavy visitor pushs the pencils and The leader will give the stick",
+        "szocehea quven na-vcewi icuxiluu sa awijoen ka-iipiewav uziupen"
+      ]
+    ],
+    "test": [
+      [
+        "The silver horses cuted the farms or The warm leader pushs the tickets",
+        "zoqi igihou na-haey toiu ra vafitiow awijoen la-vcewi ibieu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The brave hunters writes the map and The princesses will start the sticks",
+        "ucisu omekufuu la-uygojiw oeozueden sa tuyu ka-iipiewav uzoupu"
+      ],
+      [
+        "The soldier stoped the polite phone and The ugly girl fixs the long map",
+        "fajeaen na-ukuod beruhu udskewen sa nbej bakusuen la-tiboisq dozze oeozueden"
+      ],
+      [
+        "The happy scientists will open the happy shirts but The wet writer destroyed the polite motorcycle",
+        "worv ilevisau ka-iipiewav worv iucilurhu ba iezro qsuiteen na-ayugeces beruhu urewuen"
+      ],
+      [
+        "The princess will start the sticks or The brave aliens will clean the tall shields",
+        "toyen ka-iipiewav uzoupu ra ucisu ufojeru ka-iipiewav oezi izuegsu"
+      ],
+      [
+        "The lazy foxes visited the shirt and The girl droped the lazy bed",
+        "sdesln onuxdiu na-roxicu iucelurhen sa bakusuen na-ram sdesln gedanyaen"
+      ]
+    ],
+    "test": [
+      [
+        "The girl will destroy the ugly phones but The wet writers fixs the shirt",
+        "bakusuen ka-iipiewav nbej udskiwu ba iezro qsuitiu la-tiboisq iucelurhen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The dry horse will forget the book but The tiger will take the silent rings",
+        "uucopizo egihoen ka-iipiewav gocasihen ba miaen ka-iipiewav xegiou uvuu"
+      ],
+      [
+        "The weak managers growed the rings because The tigers takes the toys",
+        "eraqeok weyuu na-gxet uvuu ko mieu la-peoyeqoc epukoilqu"
+      ],
+      [
+        "The champions plants the rings but The sailors growed the lamp",
+        "xoyu la-onevuw uvuu ba zegujaiwu na-gxet anidaukeen"
+      ],
+      [
+        "The heavy owners meets the silent bed because The tiny scientist createed the short beds",
+        "szocehea mildeu la-sehuv xegiou gedanyaen ko erlu ilavisaen na-eno ebfup gedenyau"
+      ],
+      [
+        "The short owl forgeted the boxes because The owner planted the clocks",
+        "ebfup iyequen na-aeq izezu ko meldeen na-onevuw vojou"
+      ]
+    ],
+    "test": [
+      [
+        "The short sailors grows the clocks but The heavy tigers will grow the rings",
+        "ebfup zegujaiwu la-gxet vojou ba szocehea mieu ka-iipiewav uvuu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The noisy wolves plays the silent water or The metal lion plants the book",
+        "heatix iqrpkeifu la-sawesali xegiou lezuden ra aseen la-onevuw gocasihen"
+      ],
+      [
+        "The robots will cut the noisy clocks or The small lions visits the cup",
+        "hopuu ka-iipiewav heatix vojou ra tuh eseu la-roxicu eyoalaten"
+      ],
+      [
+        "The metal swimmer will cut the flower and The beautiful lions fights the apple",
+        "igegihuren ka-iipiewav omezoen sa dowison eseu la-amex buouen"
+      ],
+      [
+        "The thin alien fighted the busy papers and The runner eats the waters",
+        "cogaluda ufojaren na-amex uoci kerecu sa uigosieven la-ilijv lizudu"
+      ],
+      [
+        "The thin pilot draws the door and The rich alien visits the flower",
+        "cogaluda ageoen la-anomuuew vtiuugjoen sa exusuxe ufojaren la-roxicu omezoen"
+      ]
+    ],
+    "test": [
+      [
+        "The wolves will plant the flowers or The pilots fighted the beautiful cup",
+        "iqrpkeifu ka-iipiewav omizou ra egeou na-amex dowison eyoalaten"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The famous king will lose the beautiful clock or The beautiful kings forgeted the ancient cars",
+        "liowvevo iquen ka-iipiewav dowison vijoen ra dowison oquu na-aeq izaehix ookou"
+      ],
+      [
+        "The worker will sleep the cities but The old enemies forgets the old desk",
+        "hzufen ka-iipiewav qicerpau ba luda gesanu la-aeq luda gatosaen"
+      ],
+      [
+        "The tiny tiger shrinks the wide bottle but The famous cat learned the cities",
+        "erlu miaen ba liowvevo ohien na-aaxo qicerpau"
+      ],
+      [
+        "The ancient tiger forgeted the beautiful bottles and The golden sailors shrinked the kind car",
+        "izaehix miaen na-aeq dowison tjefiu sa ekuno zegujaiwu na-aebagiq oikoen"
+      ],
+      [
+        "The worker will fight the engine because The ancient sailors pulls the engines",
+        "hzufen ka-iipiewav tumen ko izaehix zegujaiwu la-kiosae tamu"
+      ]
+    ],
+    "test": [
+      [
+        "The famous tigers will learn the famous city because The enemies pulled the kind cities",
+        "liowvevo mieu ka-iipiewav liowvevo qicarpaen ko gesanu na-kiosae qicerpau"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The eagle will write the bright brushes but The short lions will run the short pictures",
+        "vnepoen ka-iipiewav qgeeacu rqxoforu ba ebfup eseu ka-iipiewav ebfup citeyoju"
+      ],
+      [
+        "The short child will use the soft bottles because The eagles searchs the bright helmets",
+        "ebfup wapoiheen ka-iipiewav hilacub tjefiu ko vnipou la-bieti qgeeacu egfeuu"
+      ],
+      [
+        "The smart engineer will close the towels or The bird runs the smart chair",
+        "ooz pifexateen ka-iipiewav nubexu ra cvuien la-idelu ooz adigeen"
+      ],
+      [
+        "The serious soldiers will run the bright bottles or The stranger closeed the chair",
+        "wokxe fejeau ka-iipiewav qgeeacu tjefiu ra unuzen na-uwfub adigeen"
+      ],
+      [
+        "The silent horses closeed the short towel or The small stranger will search the serious brushes",
+        "xegiou igihou na-uwfub ebfup nubaxen ra tuh unuzen ka-iipiewav wokxe rqxoforu"
+      ]
+    ],
+    "test": [
+      [
+        "The eagles runs the short brush but The short eagle will write the short bottles",
+        "vnipou la-idelu ebfup rqxiforen ba ebfup vnepoen ka-iipiewav ebfup tjefiu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The flat driver makeed the early islands but The hunter sleeped the houses",
+        "nqup elawaen la-niy aiy lidriuu ba omakufuen na-uyo eumebpu"
+      ],
+      [
+        "The free swimmers will cut the tall stars and The early captain will fight the train",
+        "ivima igigihuru ka-iipiewav oezi quovuju sa aiy voanuhceen ka-iipiewav gejeoaen"
+      ],
+      [
+        "The drivers pushs the house and The tall hunter sleeped the golds",
+        "elewau na-vcewi aumebpen sa oezi omakufuen na-uyo oxiju"
+      ],
+      [
+        "The early soldiers waits the tired beach and The swimmers waits the rough beach",
+        "aiy fejeau la-qartzifi esaa olouxen sa igigihuru la-qartzifi wasa olouxen"
+      ],
+      [
+        "The rough driver cooked the bag but The long sailor will teach the flat planet",
+        "wasa elawaen na-dueka oiween ba dozze zagujaiwen ka-iipiewav nqup serien"
+      ]
+    ],
+    "test": [
+      [
+        "The tired driver waits the beach but The early soldiers pushs the planet",
+        "esaa elawaen la-qartzifi olouxen ba aiy fejeau na-vcewi serien"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The red teachers talked the hard paper or The thick villains will grow the boat",
+        "eiapxdh vetarvcu na-dieeue gac keracen ra xuy beequeu ka-iipiewav ooqofen"
+      ],
+      [
+        "The lazy women thinked the soft bag because The teacher swimed the flower",
+        "sdesln wpou na-esou hilacub oiween ko vatarvcen na-uzo omezoen"
+      ],
+      [
+        "The light woman growed the brave papers but The teachers will meet the flower",
+        "tokaox wpien na-gxet ucisu kerecu ba vetarvcu ka-iipiewav omezoen"
+      ],
+      [
+        "The rider growed the light bag or The teachers meets the bright bag",
+        "ioporuzen na-gxet tokaox oiween ra vetarvcu la-sehuv qgeeacu oiween"
+      ],
+      [
+        "The soldier waits the bridge and The dancer will swim the shoe",
+        "fajeaen la-qartzifi isdaxoveen sa okeien ka-iipiewav oolpien"
+      ]
+    ],
+    "test": [
+      [
+        "The soldiers talks the papers or The bright dancer will swim the red paper",
+        "fejeau la-dieeue kerecu ra qgeeacu okeien ka-iipiewav eiapxdh keracen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The parents will break the lazy road but The old heroes breaks the dangerous lamp",
+        "honu ka-iipiewav sdesln naxiken ba luda auvu la-xekup emiasce anidaukeen"
+      ],
+      [
+        "The champion decides the coin and The dark parents eated the lamp",
+        "xiyen la-ewuu kuriliuen sa diie honu na-ilijv anidaukeen"
+      ],
+      [
+        "The sweet robot decides the lazy lamps or The rude followers eated the hard bed",
+        "eulugu hipuen la-ewuu sdesln enidaukeu ra placi iiviu na-ilijv gac gedanyaen"
+      ],
+      [
+        "The bitter android decides the book or The lazy children will lose the old stars",
+        "ofisu taowoen la-ewuu gocasihen ra sdesln wepoiheu ka-iipiewav luda quovuju"
+      ],
+      [
+        "The old children eats the roads and The doctors breaks the roads",
+        "luda wepoiheu la-ilijv nexiku sa keou la-xekup nexiku"
+      ]
+    ],
+    "test": [
+      [
+        "The doctor will lose the roads and The children will decide the bed",
+        "kaoen ka-iipiewav nexiku sa wepoiheu ka-iipiewav gedanyaen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The follower knows the smooth bread but The managers drops the clean keys",
+        "eivien la-toqofofu doseti cijuvoqeen ba weyuu la-ram vehecvu nvosokdu"
+      ],
+      [
+        "The follower closes the slow chair and The smooth dancer stops the flower",
+        "eivien la-uwfub use adigeen sa doseti okeien la-ukuod omezoen"
+      ],
+      [
+        "The new ghost jumps the smooth bottles and The happy dancers will push the light chairs",
+        "aya efzaben la-egim doseti tjefiu sa worv okiiu ka-iipiewav tokaox edigeu"
+      ],
+      [
+        "The happy manager stops the smooth keys or The smooth ghosts jumps the smooth ring",
+        "worv wayuen la-ukuod doseti nvosokdu ra doseti efzebu la-egim doseti uvoen"
+      ],
+      [
+        "The brave owl drives the flowers and The leader forgeted the bread",
+        "ucisu iyequen la-upu omizou sa awijoen na-aeq cijuvoqeen"
+      ]
+    ],
+    "test": [
+      [
+        "The ghost jumps the chair or The ghosts will stop the chairs",
+        "efzaben la-egim adigeen ra efzebu ka-iipiewav edigeu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The sailor will bring the clean ships but The sailors receives the quiet beach",
+        "zagujaiwen ka-iipiewav vehecvu ekuoumau ba zegujaiwu la-uyubu uqenuva olouxen"
+      ],
+      [
+        "The aliens cooked the wet chairs because The villain bringed the stick",
+        "ufojeru na-dueka iezro edigeu ko beequaen na-juva uziupen"
+      ],
+      [
+        "The flat sailor bringed the strange books or The strange pirates will teach the ship",
+        "nqup zagujaiwen na-juva lboziqab gocesihu ra lboziqab tijyoxiju ka-iipiewav akuoumaen"
+      ],
+      [
+        "The funny driver plants the strange books and The quiet clown turns the clever beaches",
+        "eguim elawaen la-onevuw lboziqab gocesihu sa uqenuva useumuyen la-ubetwuma vauqsk ulouxu"
+      ],
+      [
+        "The cold driver begins the ships but The cold drivers teachs the towels",
+        "zeaipo elawaen la-ixooec ekuoumau ba zeaipo elewau la-qukizn nubexu"
+      ]
+    ],
+    "test": [
+      [
+        "The sailors will receive the wet beaches and The clown turned the funny ships",
+        "zegujaiwu ka-iipiewav iezro ulouxu sa useumuyen na-ubetwuma eguim ekuoumau"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The wizards designs the beaches but The guest throwed the light bag",
+        "iuidenu la-ialejge ulouxu ba unqien na-bisa tokaox oiween"
+      ],
+      [
+        "The drivers will use the book but The old drivers brings the old bags",
+        "elewau ka-iipiewav gocasihen ba luda elewau la-juva luda oiwiu"
+      ],
+      [
+        "The driver pushs the book and The chef plants the wheels",
+        "elawaen na-vcewi gocasihen sa ikohulen la-onevuw rumou"
+      ],
+      [
+        "The sharp bear sees the book but The ancient readers will plant the silvers",
+        "odu zeoken la-fiu gocasihen ba izaehix amhu ka-iipiewav zoqou"
+      ],
+      [
+        "The bears will push the flat bicycle but The prince useed the old desk",
+        "zioku ka-iipiewav nqup yigliieuen ba onucpyen la-gafa luda gatosaen"
+      ]
+    ],
+    "test": [
+      [
+        "The ancient readers will use the flat silver and The old chef throws the wheels",
+        "izaehix amhu ka-iipiewav nqup zoqien sa luda ikohulen la-bisa rumou"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The narrow doctor turned the light soaps because The narrow doctors standed the happy waters",
+        "ifutoj kaoen na-ubetwuma tokaox ehau ko ifutoj keou na-evelpaha worv lizudu"
+      ],
+      [
+        "The rich singers sleeps the light sofa and The wooden pilot will push the flower",
+        "exusuxe qowiju la-uyo tokaox iwewoen sa iaqamo ageoen ka-iipiewav omezoen"
+      ],
+      [
+        "The pilots will jump the coins but The slow lizard will finish the pencil",
+        "egeou ka-iipiewav kuroliuu ba use oipen ka-iipiewav ecuxiluen"
+      ],
+      [
+        "The polite singer jumped the happy water because The early lizards will watch the safe soap",
+        "beruhu qowejen na-egim worv lezuden ko aiy oopu ka-iipiewav adifd ahaen"
+      ],
+      [
+        "The chef builded the pencil and The wooden wolf sleeps the early engines",
+        "ikohulen na-iru ecuxiluen sa iaqamo eqrpkeifen la-uyo aiy tamu"
+      ]
+    ],
+    "test": [
+      [
+        "The wolves watched the polite pencils but The safe chefs finishs the pencil",
+        "iqrpkeifu na-eya beruhu icuxiluu ba adifd okohulu la-redef ecuxiluen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The boss will cut the coins because The scientists createed the clocks",
+        "aufepen ka-iipiewav kuroliuu ko ilevisau la-ofey vojou"
+      ],
+      [
+        "The bosses will finish the castle because The thick scientist meeted the coins",
+        "eufepu ka-iipiewav kocen ko xuy ilavisaen na-sehuv kuroliuu"
+      ],
+      [
+        "The manager walks the dangerous ring or The round programmers will talk the coins",
+        "wayuen la-gibuice emiasce uvoen ra oguginuu ka-iipiewav kuroliuu"
+      ],
+      [
+        "The easy girl will walk the rivers because The hard bosses decideed the easy farms",
+        "otuni bakusuen ka-iipiewav akusu ko gac eufepu la-uwehaiva otuni toiu"
+      ],
+      [
+        "The singer designs the easy river and The famous hero walked the ticket",
+        "qowejen la-ialejge ukusen sa liowvevo uuven na-gibuice ibiaen"
+      ]
+    ],
+    "test": [
+      [
+        "The bosses will finish the clock or The manager will design the farms",
+        "eufepu ka-iipiewav vijoen ra wayuen ka-iipiewav toiu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The scientists searchs the dirty pencil or The ghosts finishs the planet",
+        "ilevisau la-bieti iqgirid ecuxiluen ra efzebu la-redef serien"
+      ],
+      [
+        "The soft follower cooked the narrow coin because The boy finishs the book",
+        "hilacub eivien na-dueka ifutoj kuriliuen ko ajikxozhen la-redef gocasihen"
+      ],
+      [
+        "The wizard searchs the soft coins and The doctors searchs the soft treasure",
+        "iuidanen la-fiho hilacub kuroliuu sa keou la-bieti hilacub iatcen"
+      ],
+      [
+        "The wooden ghost will remember the windows because The wooden ghosts will see the windows",
+        "iaqamo efzaben ka-iipiewav owgideu ko iaqamo efzebu ka-iipiewav owgideu"
+      ],
+      [
+        "The witch sleeps the bread and The new dragons will drive the sticks",
+        "todafaeen la-uyo cijuvoqeen sa aya exouodau ka-iipiewav uzoupu"
+      ]
+    ],
+    "test": [
+      [
+        "The wizard finished the book or The soft wizard finished the pencil",
+        "iuidanen na-redef gocasihen ra hilacub iuidanen na-redef ecuxiluen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The teachers will push the knife because The square hunter will grow the boat",
+        "vetarvcu ka-iipiewav adaen ko oorigub omakufuen ka-iipiewav ooqofen"
+      ],
+      [
+        "The man giveed the free golds because The small guest giveed the knife",
+        "nuaen la-xit ivima oxiju ko tuh unqien la-xit adaen"
+      ],
+      [
+        "The singers forgets the bright golds or The lazy lion sees the towers",
+        "qowiju la-aeq qgeeacu oxiju ra sdesln aseen la-fiu veau"
+      ],
+      [
+        "The free heroes standed the shoe or The lion started the thick shoes",
+        "ivima auvu na-evelpaha oolpien ra aseen na-wifj xuy oolpou"
+      ],
+      [
+        "The thick player will stand the free helmet and The fast players grows the phones",
+        "xuy uetaen ka-iipiewav ivima agfeuen sa uleabe ueteu la-gxet udskiwu"
+      ]
+    ],
+    "test": [
+      [
+        "The small men sees the golds and The singer standed the free helmet",
+        "tuh nueu la-fiu oxiju sa qowejen na-evelpaha ivima agfeuen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The king will decide the phones or The workers receives the shirt",
+        "iquen ka-iipiewav udskiwu ra hzafu la-uyubu iucelurhen"
+      ],
+      [
+        "The villain will watch the tall phone but The singers will show the stick",
+        "beequaen ka-iipiewav oezi udskewen ba qowiju ka-iipiewav uziupen"
+      ],
+      [
+        "The owls runs the long gold because The empty singer meets the happy mirrors",
+        "iyiquu la-idelu dozze ixijen ko aliiebe qowejen la-sehuv worv podowuu"
+      ],
+      [
+        "The happy workers throwed the small shirt but The reader receiveed the tickets",
+        "worv hzafu na-bisa tuh iucelurhen ba umhen la-iflm ibieu"
+      ],
+      [
+        "The happy builder decideed the long map or The long pilots will receive the small paper",
+        "worv ciakpen la-uwehaiva dozze oeozueden ra dozze egeou ka-iipiewav tuh keracen"
+      ]
+    ],
+    "test": [
+      [
+        "The worker runs the happy stick or The villains meeted the tickets",
+        "hzufen la-idelu worv uziupen ra beequeu na-sehuv ibieu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The police followed the shoe but The wolves will lose the wooden flag",
+        "iekuduu na-vehaqopn oolpien ba iqrpkeifu ka-iipiewav iaqamo epiien"
+      ],
+      [
+        "The giant opens the breads because The friend will see the roads",
+        "oqeupeiden la-hixis cijuvoqiu ko khokayheen ka-iipiewav nexiku"
+      ],
+      [
+        "The wooden thief will cook the wooden sun or The slow polices will teach the long box",
+        "iaqamo wgaguhien ka-iipiewav iaqamo ahoaesaen ra use iekuduu ka-iipiewav dozze izazen"
+      ],
+      [
+        "The giant loses the serious trains but The broken children cooks the wooden bread",
+        "oqeupeiden la-enenma wokxe gejeoeu ba ukevag wepoiheu la-dueka iaqamo cijuvoqeen"
+      ],
+      [
+        "The wolves loseed the slow bread or The bright strangers will fly the sun",
+        "iqrpkeifu la-xuqul use cijuvoqeen ra qgeeacu anuzu ka-iipiewav ahoaesaen"
+      ]
+    ],
+    "test": [
+      [
+        "The friends cooks the broken flags because The broken giant cooked the road",
+        "khokeyheu la-dueka ukevag ipiiu ko ukevag oqeupeiden na-dueka naxiken"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The boy fixs the wet water because The worker fights the active knives",
+        "ajikxozhen la-tiboisq iezro lezuden ko hzufen la-amex iyexl edau"
+      ],
+      [
+        "The active worker fixs the knives or The dragons waits the wet farm",
+        "iyexl hzufen la-tiboisq edau ra exouodau la-qartzifi iezro toeen"
+      ],
+      [
+        "The queens will wake the gifts but The clean sharks seeed the rude waters",
+        "vlijydou ka-iipiewav ociu ba vehecvu iuruu la-aeju placi lizudu"
+      ],
+      [
+        "The brave queens will sleep the clean farm or The thick heroes builds the clean bicycles",
+        "ucisu vlijydou ka-iipiewav vehecvu toeen ra xuy auvu la-iru vehecvu yigliiiuu"
+      ],
+      [
+        "The free ninjas finished the helmets and The full boy will carry the thick sun",
+        "ivima pohijiusen na-redef egfeuu sa owowoes ajikxozhen ka-iipiewav xuy ahoaesaen"
+      ]
+    ],
+    "test": [
+      [
+        "The workers fixs the bicycles but The shark builded the helmet",
+        "hzafu la-tiboisq yigliiiuu ba euruen na-iru agfeuen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The happy visitor meeted the happy rings or The thin visitor brings the huge farm",
+        "worv quven na-sehuv worv uvuu ra cogaluda quven la-juva falerd toeen"
+      ],
+      [
+        "The dog readed the tree or The dog will repair the plastic coin",
+        "cocuween na-rou itaogen ra cocuween ka-iipiewav bipadjap kuriliuen"
+      ],
+      [
+        "The clean shark sends the slow table but The dogs will read the slow key",
+        "vehecvu euruen la-eif use juzulen ba cocuwiu ka-iipiewav use nvosikden"
+      ],
+      [
+        "The wooden shark finished the treasure or The dogs finishs the clean treasures",
+        "iaqamo euruen na-redef iatcen ra cocuwiu la-redef ietcu"
+      ],
+      [
+        "The wooden villain breaks the flags or The wooden boys will bring the island",
+        "iaqamo beequaen la-xekup ipiiu ra iaqamo ejikxozhu ka-iipiewav lidreuen"
+      ]
+    ],
+    "test": [
+      [
+        "The dog sends the huge coin but The boy breaked the slow key",
+        "cocuween la-eif falerd kuriliuen ba ajikxozhen na-xekup use nvosikden"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The dark teachers travels the cool tickets but The robot will watch the long towels",
+        "diie vetarvcu la-pamek oxhe ibieu ba hipuen ka-iipiewav dozze nubexu"
+      ],
+      [
+        "The sharp knight eats the long toy and The birds stoped the foods",
+        "odu iakoen la-ilijv dozze apukoilqen sa cvuou na-ukuod uziu"
+      ],
+      [
+        "The sharp birds wakes the dark waters and The lizards will watch the villages",
+        "odu cvuou la-vioeb diie lizudu sa oopu ka-iipiewav mocromuhu"
+      ],
+      [
+        "The worker will wake the water and The robots walks the villages",
+        "hzufen ka-iipiewav lezuden sa hopuu la-gibuice mocromuhu"
+      ],
+      [
+        "The dark witches will stop the sharp waters because The teacher will wake the rings",
+        "diie todefaeu ka-iipiewav odu lizudu ko vatarvcen ka-iipiewav uvuu"
+      ]
+    ],
+    "test": [
+      [
+        "The teachers stops the ticket because The long birds watched the foods",
+        "vetarvcu la-ukuod ibiaen ko dozze cvuou na-eya uziu"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The guest createed the cup because The new child called the safe motorcycles",
+        "unqien la-ofey eyoalaten ko aya wapoiheen na-qraxu adifd uriwuu"
+      ],
+      [
+        "The short students washs the hot ship and The king will call the silver",
+        "ebfup wupu la-yoexixis daqbxi akuoumaen sa iquen ka-iipiewav zoqien"
+      ],
+      [
+        "The dogs remembered the red ship or The owl createed the polite motorcycle",
+        "cocuwiu na-kreoeu eiapxdh akuoumaen ra iyequen na-eno beruhu urewuen"
+      ],
+      [
+        "The new king will call the warm silvers and The owls runed the engines",
+        "aya iquen ka-iipiewav vafitiow zoqou sa iyiquu na-idelu tamu"
+      ],
+      [
+        "The short chefs will sleep the motorcycle or The cats washs the forests",
+        "ebfup okohulu ka-iipiewav urewuen ra ohou la-yoexixis cceqqifu"
+      ]
+    ],
+    "test": [
+      [
+        "The red guests will call the safe forest because The children will call the silver",
+        "eiapxdh unqou ka-iipiewav adifd ccaqqifen ko wepoiheu ka-iipiewav zoqien"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The strong writer sits the shoes or The huge dancers knows the sweet ships",
+        "fovdudip qsuiteen la-ice oolpou ra falerd okiiu la-toqofofu eulugu ekuoumau"
+      ],
+      [
+        "The kings buys the keys or The quick babies will use the late knife",
+        "oquu la-ivamo nvosokdu ra ofup koidivuu ka-iipiewav uruyifad adaen"
+      ],
+      [
+        "The boy throwed the cars but The dancer digs the sweet foods",
+        "ajikxozhen na-bisa ookou ba okeien la-punihu eulugu uziu"
+      ],
+      [
+        "The huge queen shrinked the shoes or The baby will shrink the sweet helmet",
+        "falerd vlejydoen na-aebagiq oolpou ra koidevuen ka-iipiewav eulugu agfeuen"
+      ],
+      [
+        "The quiet wolf will use the bitter chairs or The late dancers throwed the balls",
+        "uqenuva eqrpkeifen ka-iipiewav ofisu edigeu ra uruyifad okiiu na-bisa iviu"
+      ]
+    ],
+    "test": [
+      [
+        "The queens buys the helmets but The late king knows the knives",
+        "vlijydou la-ivamo egfeuu ba uruyifad iquen la-toqofofu edau"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The boys will read the late bottles because The smart friend watched the box",
+        "ejikxozhu ka-iipiewav uruyifad tjefiu ko ooz khokayheen na-eya izazen"
+      ],
+      [
+        "The bright farmers will shrink the rivers because The farmer decides the forest",
+        "qgeeacu evociu ka-iipiewav akusu ko avocien la-ewuu ccaqqifen"
+      ],
+      [
+        "The kings will shrink the friendly shirts or The pirates watchs the bag",
+        "oquu ka-iipiewav zeevquo iucilurhu ra tijyoxiju na-eya oiween"
+      ],
+      [
+        "The dog watchs the wooden bicycle but The late dog shrinks the free helmets",
+        "cocuween la-eya iaqamo yigliieuen ba uruyifad cocuween  ivima egfeuu"
+      ],
+      [
+        "The boys plays the bag but The bosses opened the golden forests",
+        "ejikxozhu la-sawesali oiween ba eufepu na-hixis ekuno cceqqifu"
+      ]
+    ],
+    "test": [
+      [
+        "The late boy opens the friendly forests or The bright farmer watchs the helmet",
+        "uruyifad ajikxozhen la-hixis zeevquo cceqqifu ra qgeeacu avocien la-eya agfeuen"
+      ]
+    ]
+  },
+  {
+    "train": [
+      [
+        "The broken neighbor finished the happy wheel and The manager stoped the heavy shields",
+        "ukevag zunovugen na-redef worv rumien sa wayuen na-ukuod szocehea izuegsu"
+      ],
+      [
+        "The baby takeed the flat house because The happy workers stops the happy castles",
+        "koidevuen la-unyi nqup aumebpen ko worv hzafu la-ukuod worv kucu"
+      ],
+      [
+        "The boys standed the soft shield because The happy shark hideed the hard wheels",
+        "ejikxozhu na-evelpaha hilacub ezuegsen ko worv euruen na-zoyan gac rumou"
+      ],
+      [
+        "The witch will build the smart radio or The broken boys hides the soft desk",
+        "todafaeen ka-iipiewav ooz riuen ra ukevag ejikxozhu la-zoyan hilacub gatosaen"
+      ],
+      [
+        "The worker stoped the houses or The villains likes the desks",
+        "hzufen na-ukuod eumebpu ra beequeu la-cawl getosau"
+      ]
+    ],
+    "test": [
+      [
+        "The babies will stand the desks or The broken villains will stop the desks",
+        "koidivuu ka-iipiewav getosau ra ukevag beequeu ka-iipiewav getosau"
+      ]
+    ]
+  }
+]
